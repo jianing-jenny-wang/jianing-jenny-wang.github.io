@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Researches | Jianing Wang</title>
+    <link>https://jianing-jenny-wang.github.io/research/</link>
+      <atom:link href="https://jianing-jenny-wang.github.io/research/index.xml" rel="self" type="application/rss+xml" />
+    <description>Researches</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 30 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jianing-jenny-wang.github.io/media/icon_hu61a5cda683b16e16ad250d48d66bc7bc_4894_512x512_fill_lanczos_center_3.png</url>
+      <title>Researches</title>
+      <link>https://jianing-jenny-wang.github.io/research/</link>
+    </image>
+    
+    <item>
+      <title>A Spatial Capture-Recapture Approach for Estimating Opioid Use Disorder Prevalence in Small Areas Using Administrative Data</title>
+      <link>https://jianing-jenny-wang.github.io/research/spatial-capture-recapture/</link>
+      <pubDate>Fri, 30 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://jianing-jenny-wang.github.io/research/spatial-capture-recapture/</guid>
+      <description>&lt;p&gt;We propose a two-stage Bayesian hierarchical model with spatial smoothing using a CRC data structure to estimate community-specific opioid use disorder (OUD) prevalence. We explicitly model the hidden prevalence of interest and the associated detection model that describes individual detection histories across data sources. This structure can also incorporate additional characteristics of communities that could be important in understanding patterns in the OUD epidemic, enabling local jurisdictions to identify spatial clusters and areas with high OUD risk for higher precision of intervention deployment.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Population size estimation methods using incomplete disease surveillance data</title>
+      <link>https://jianing-jenny-wang.github.io/research/hidden-population/</link>
+      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://jianing-jenny-wang.github.io/research/hidden-population/</guid>
+      <description>&lt;p&gt;We used multiple individually linked administrative health data to compare the results of stratified capture-recapture analysis and Bayesian multiplier benchmark analysis to estimate OUD prevalence in the Massachusetts population.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Safety Evaluation in Oncology Phase II Basket Trial</title>
+      <link>https://jianing-jenny-wang.github.io/research/basket-trial/</link>
+      <pubDate>Sat, 20 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://jianing-jenny-wang.github.io/research/basket-trial/</guid>
+      <description>&lt;p&gt;We extend the Bayesian hierarchical modeling framework from efficacy assessment studies in basket trial design to characterize the treatment’s safety profile. We propose Bayesian multi-level count models adopting different likelihood options with additional focus placed on the choice of prior for the basket-level standard deviation.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

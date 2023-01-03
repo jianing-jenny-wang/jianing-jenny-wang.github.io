@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Jianing Wang</title>
+    <link>https://jianing-jenny-wang.github.io/publication-type/1/</link>
+      <atom:link href="https://jianing-jenny-wang.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 20 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jianing-jenny-wang.github.io/media/icon_hu61a5cda683b16e16ad250d48d66bc7bc_4894_512x512_fill_lanczos_center_3.png</url>
+      <title>1</title>
+      <link>https://jianing-jenny-wang.github.io/publication-type/1/</link>
+    </image>
+    
+    <item>
+      <title>Meta-Modelling for Policy Simulations with Multivariate Outcomes</title>
+      <link>https://jianing-jenny-wang.github.io/publication/zhong-2019-conf/</link>
+      <pubDate>Sun, 20 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://jianing-jenny-wang.github.io/publication/zhong-2019-conf/</guid>
+      <description>&lt;!-- 
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;abstract&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Purpose:&lt;/strong&gt; A metamodel is a simplified approximation of the relationships between inputs and outputs in a simulation model. A challenge in metamodeling for policy analysis is that there are often multiple correlated outputs of interest: for example, costs and effects of different policy choices. We develop a framework for metamodeling that accommodates multivariate outcomes, and we compare alternatives for the choice of the base learning algorithm.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Methods:&lt;/strong&gt; To generate metamodels for multivariate outcomes, we combined two algorithm adaptation methods – multi-target stacking (MTS) and regression chain with maximum correlation chain (RCCC) – together with different base learners including linear regression (LR), elastic net (EN) with second-order terms, Gaussian process regression (GPR), random forests (RFs), and neural networks (NNs). We optimized the integrated models using variable selection and hyperparameter tuning. We compared approaches in terms of model accuracy, efficiency, and interpretability. To illustrate the framework, we used inputs and outputs from an individual-based decision analytic simulation model of testing and treatment strategies for chronic hepatitis C virus in correctional settings. The training data set included 2,000 simulations, each summarized by 37 input variables and 60 output variables (5 economic and health outcomes for 6 alternative strategies measured over 2 time horizons).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Results:&lt;/strong&gt; The output variables from the simulation model were heavily correlated (average rho=0.58). Without multioutput algorithm adaptation methods, in-sample fit (measured by R2) ranged from 0.881 for LR to 0.987 for GPR. Inclusion of multioutput algorithm adaptation methods increased R2by 0.004 on average across all base leaners, and variable selection and hyperparameter tuning added 0.009. In terms of model efficiency, simpler models such as LR, EN, and RF required minimal training and prediction time. GPR had short prediction time, but the training time was heavily affected by the size of the training dataset. NN had the longest training and prediction time. For model interpretability, LR and EN have clear advantages, but we also consider methods for improving interpretability of other models.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Conclusions:&lt;/strong&gt; This study provides a framework for metamodeling in policy analyses with multivariate outcomes of interest. While the advantages and disadvantages of specific learning algorithms may vary across different modeling applications, we expect that the general framework presented here will have broad applicability to decision analytic models in health and medicine.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An example conference paper</title>
+      <link>https://jianing-jenny-wang.github.io/publication0/sample-conference-paper/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://jianing-jenny-wang.github.io/publication0/sample-conference-paper/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

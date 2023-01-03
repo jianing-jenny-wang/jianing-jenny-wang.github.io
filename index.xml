@@ -1,10 +1,1961 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jenny&#39;s Personal Site</title>
-    <link>http://jianing-jenny-wang.github.io/</link>
-    <description>Recent content on Jenny&#39;s Personal Site</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://jianing-jenny-wang.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <title>Jianing Wang</title>
+    <link>https://jianing-jenny-wang.github.io/</link>
+      <atom:link href="https://jianing-jenny-wang.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jianing Wang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jianing-jenny-wang.github.io/media/icon_hu61a5cda683b16e16ad250d48d66bc7bc_4894_512x512_fill_lanczos_center_3.png</url>
+      <title>Jianing Wang</title>
+      <link>https://jianing-jenny-wang.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>https://jianing-jenny-wang.github.io/talk/example-talk/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>https://jianing-jenny-wang.github.io/talk/example-talk/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A spatial capture-recapture approach for estimating opioid use disorder prevalence in small areas using administrative data</title>
+      <link>https://jianing-jenny-wang.github.io/publication/wang-working-biostatistics/</link>
+      <pubDate>Mon, 02 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://jianing-jenny-wang.github.io/publication/wang-working-biostatistics/</guid>
+      <description>&lt;div align=&#34;center&#34;&gt;&lt;b&gt;&lt;i&gt; Working Paper &lt;/div&gt;
+&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+&lt;!-- ## abstract --&gt;
+&lt;!-- Respondent-driven sampling (RDS) is widely used for collecting data on hard-to-reach populations, including information about the structure of the networks connecting the individuals. Characterizing network features can be important for designing and evaluating health programs, particularly those that involve infectious disease transmission. While the validity of population proportions estimated from RDS-based datasets has been well studied, little is known about potential biases in inference about network structure from RDS. We developed a mathematical and statistical platform to simulate network structures with exponential random graph models, and to mimic the data generation mechanisms produced by RDS. We used this framework to characterize biases in three important network statistics – density/mean degree, homophily, and transitivity. Generalized linear models were used to predict the network statistics of the original network from the network statistics of the sample network and observable sample design features. We found that RDS may introduce significant biases in the estimation of density/mean degree and transitivity, and may exaggerate homophily when preferential recruitment occurs. Adjustments to network-generating statistics derived from the prediction models could substantially improve validity of simulated networks in terms of density, and could reduce bias in replicating mean degree, homophily, and transitivity from the original network. --&gt;</description>
+    </item>
+    
+    <item>
+      <title>Massachusetts prevalence of Opioid Use Disorder estimation revisited: Comparing a Bayesian approach to standard capture-recapture methods</title>
+      <link>https://jianing-jenny-wang.github.io/publication/wang-working-aje/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://jianing-jenny-wang.github.io/publication/wang-working-aje/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+&lt;div align=&#34;center&#34;&gt;&lt;b&gt;&lt;i&gt; Working Paper &lt;/div&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;abstract&lt;/h2&gt;
+&lt;p&gt;Accurate estimation of the prevalence of people with opioid use disorder (OUD) is critical to the success of treatment and resource planning. Various indirect estimation approaches have been used but are subject to issues related to data availability and infrastructure. We used 2015 data from the Massachusetts Public Health Data Warehouse (PHD) to compare the results of two approaches to estimating OUD prevalence in the Massachusetts population. First, we used a seven-data set capture-recapture analysis under log-linear model parameterization, controlling for the source dependence and effects of age, sex, and county through stratification. Second, we applied a benchmark-multiplier method in a Bayesian framework by linking healthcare claims data to death certificate data assuming an extrapolation of death rates from observed untreated OUD to unobserved OUD. The estimates for OUD among MA residents were compared using the results from each approach and were 4.62% (95% CI: 4.59%, 4.64%) in the capture-recapture and 4.29% (95% CrI: 3.49%, 5.32%) in the Bayesian model. The comparison suggests that concurrent use of multiple methods improves the justification and facilitates the triangulation and interpretation of the resulting estimates.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Keywords:&lt;/strong&gt; Opioid use disorder prevalence estimation, capture-recapture analysis, Bayesian benchmark-multiplier method, surveillance data integration&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Trial registration:&lt;/strong&gt; ClinicalTrials.gov Identifier: NCT04111939&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Modeling recurrent relapse and remitting episodes during MOUD treatment: a tutorial</title>
+      <link>https://jianing-jenny-wang.github.io/publication/wang-working-mdm/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://jianing-jenny-wang.github.io/publication/wang-working-mdm/</guid>
+      <description>&lt;div align=&#34;center&#34;&gt;&lt;b&gt;&lt;i&gt; Working Paper &lt;/div&gt;
+&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;abstract&lt;/h2&gt;
+&lt;p&gt;In longitudinal studies participants can often experience the outcome(s) of interest multiple times during the observation period, creating recurrent event data. Depending on the primary research objective, advanced statistical methods are required to correctly analyze this special type of data. This tutorial discusses four general frameworks, appropriate for analyzing recurrent events data; 1) extended Cox, 2) Parametric Survival, 3) Longitudinal, and 4) Multistate models. We present in detail the implementation of these methods, including description of the required dataset structure, R code, and interpretation of results, using data from the CTN-0051 study, a randomized clinical trial comparing the effectiveness of Opioid Use Disorder (OUD) treatments. Objectives of three use case scenarios exemplify usage and relevance of the methods for the analysis of recurrent events; 1) estimate adjusted effects, 2) make individual-level predictions, and 3) model a complicated process involving multidirectional transitions between disease states. We compare the methods, comment on their strengths and limitations and make recommendations on the preferred method depending on the primary research objective.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>On the estimation of population size – A comparison of capture-recapture and multiplier-benchmark methods</title>
+      <link>https://jianing-jenny-wang.github.io/publication/wang-working-statmed/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://jianing-jenny-wang.github.io/publication/wang-working-statmed/</guid>
+      <description>&lt;div align=&#34;center&#34;&gt;&lt;b&gt;&lt;i&gt; Working Paper &lt;/div&gt;
+&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+&lt;!-- ## abstract --&gt;
+&lt;!-- Respondent-driven sampling (RDS) is widely used for collecting data on hard-to-reach populations, including information about the structure of the networks connecting the individuals. Characterizing network features can be important for designing and evaluating health programs, particularly those that involve infectious disease transmission. While the validity of population proportions estimated from RDS-based datasets has been well studied, little is known about potential biases in inference about network structure from RDS. We developed a mathematical and statistical platform to simulate network structures with exponential random graph models, and to mimic the data generation mechanisms produced by RDS. We used this framework to characterize biases in three important network statistics – density/mean degree, homophily, and transitivity. Generalized linear models were used to predict the network statistics of the original network from the network statistics of the sample network and observable sample design features. We found that RDS may introduce significant biases in the estimation of density/mean degree and transitivity, and may exaggerate homophily when preferential recruitment occurs. Adjustments to network-generating statistics derived from the prediction models could substantially improve validity of simulated networks in terms of density, and could reduce bias in replicating mean degree, homophily, and transitivity from the original network. --&gt;</description>
+    </item>
+    
+    <item>
+      <title>The prevalence of opioid use disorder in Kentucky’s counties: A two-year multi-sample capture-recapture analysis</title>
+      <link>https://jianing-jenny-wang.github.io/publication/thompson-2023-daad/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://jianing-jenny-wang.github.io/publication/thompson-2023-daad/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;abstract&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Background&lt;/strong&gt;
+Kentucky has one of the highest opioid overdose mortality rates in the United States. Accurate estimates of people with opioid use disorder (OUD) are critical to plan for the scope of interventions required to reduce overdose and opioid misuse. Commonly used household surveys are known to underestimate OUD at the state-level and do not provide county-level estimates.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Methods&lt;/strong&gt;
+We performed a multi-sample capture-recapture analysis to estimate OUD prevalence in Kentucky in 2018 and 2019. We utilized four statewide datasets that were linked at the individual level: 1) Registry of Vital Statistics, 2) Emergency Medical Services (EMS), 3) Kentucky’s Prescription Drug Monitoring Program (PDMP), and 4) Kentucky Medicaid. We included persons aged 18–64 years who resided in Kentucky between 2018 and 2019. We identified individuals with administrative data consistent with OUD in each of the datasets, including a fatal opioid-involved overdose (Vital Statistics), EMS runs for suspected opioid overdose, receipt of buprenorphine for OUD treatment (PDMP), or Medicaid claims for OUD. Observed and estimated counts of OUD cases and prevalence of OUD among the adult population in Kentucky.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Results&lt;/strong&gt;
+The estimated statewide OUD prevalence was 5.5 % and 5.9 % for 2018 and 2019, respectively, ranging from 1.3 % to 17.7 % across Kentucky counties. As expected, counties with the highest OUD rates were Appalachian counties (eastern area) of the state.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Conclusions&lt;/strong&gt;
+Our analysis reveals a substantially larger proportion of KY residents have OUD than previously estimated. Our approach offers a model for states needing county-level estimates of OUD.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Capture-Recapture</title>
+      <link>https://jianing-jenny-wang.github.io/research0/baysian/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://jianing-jenny-wang.github.io/research0/baysian/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Opioid Use Disorder Among Ohio’s Medicaid Population: Prevalence Estimates From 19 Counties Using a Multiplier Method</title>
+      <link>https://jianing-jenny-wang.github.io/publication/doogan-2022-aje/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://jianing-jenny-wang.github.io/publication/doogan-2022-aje/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;abstract&lt;/h2&gt;
+&lt;p&gt;The decades-long overdose epidemic in the United States is driven by opioid misuse. Overdoses commonly, although not exclusively, occur in individuals with opioid use disorder (OUD). To allocate adequate resources and develop appropriately scaled public health responses, accurate estimation of the prevalence of OUD is needed. Indirect methods (e.g., a multiplier method) of estimating prevalence of problematic substance-use behavior circumvent some limitations of household surveys and use of administrative data. We used a multiplier method to estimate OUD prevalence among the adult Medicaid population (ages 18–64 years) in 19 Ohio counties that are highly affected by overdose. We used Medicaid claims data and the US National Vital Statistics System overdose death data, which were linked at the person level. A statistical model leveraged opioid-related death rate information from a group with known OUD to estimate prevalence among a group with unknown OUD status given recorded opioid-related deaths in that group. We estimated that 13.6% of the total study population had OUD in 2019. Men (16.7%) had a higher prevalence of OUD than women (11.4%), and persons aged 35–54 had the highest prevalence (16.7%). Our approach to prevalence estimation has important implications for OUD surveillance and treatment in the United States.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Keywords:&lt;/strong&gt; indirect prevalence estimation, opioid use disorder, prevalence
+&lt;strong&gt;Issue Section:&lt;/strong&gt; PRACTICE OF EPIDEMIOLOGY&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Race and Gender Differences in Opioid Use Disorder in Massachusetts from 2014 through 2019, a Capture-Recapture Analysis</title>
+      <link>https://jianing-jenny-wang.github.io/presentations/2022-apha/</link>
+      <pubDate>Sun, 06 Nov 2022 13:00:00 +0000</pubDate>
+      <guid>https://jianing-jenny-wang.github.io/presentations/2022-apha/</guid>
+      <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Background:&lt;/strong&gt; The opioid overdose epidemic has disproportionately impacted different groups. While overdoses continue to increase, accurate estimates of the prevalence of opioid use disorder (OUD) are needed to understand the size of the population at risk for overdose.  Though overdoses are more common in males, the sex breakdown in OUD prevalence is unknown.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Objectives:&lt;/strong&gt; To estimate the prevalence of OUD in Massachusetts from 2014 to 2018, stratified by sex.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Methods:&lt;/strong&gt; We performed a capture-recapture analysis in Massachusetts from 2014-2018 among persons aged 18-64 years. We stratified our analysis by sex and used seven statewide datasets that were individually linked within the state’s Public Health Data Warehouse. We developed log linear models to estimate people previously unknown to have OUD. We estimated counts and prevalence of OUD among the adult population by sex.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Results:&lt;/strong&gt; The estimated OUD prevalence increased from 4.74% (95% CI = 4.73%, 4.76%) in 2014 to 6.68% (95% CI = 6.66%, 6.70%) in 2018. Over that time, the proportion of the total prevalence attributable to females was 37% in 2014, 46% in 2015, 38% in 2016, 35% in 2017, and 44% in 2018. The proportion of estimated OUD cases known by the system remained stable (between 33%-43%), as well as the ratio of the proportion of females who were known to the unknown.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Conclusion:&lt;/strong&gt; Overall prevalence estimates are significantly higher than those from NSDUH. Females account for nearly half of OUD prevalence in Massachusetts with no increase in the number who were previously unknown to the healthcare system.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Spatial Capture-Recapture Approach for Estimating Opioid Use Disorder Prevalence in Small Areas Using Administrative Data</title>
+      <link>https://jianing-jenny-wang.github.io/research/spatial-capture-recapture/</link>
+      <pubDate>Fri, 30 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://jianing-jenny-wang.github.io/research/spatial-capture-recapture/</guid>
+      <description>&lt;p&gt;We propose a two-stage Bayesian hierarchical model with spatial smoothing using a CRC data structure to estimate community-specific opioid use disorder (OUD) prevalence. We explicitly model the hidden prevalence of interest and the associated detection model that describes individual detection histories across data sources. This structure can also incorporate additional characteristics of communities that could be important in understanding patterns in the OUD epidemic, enabling local jurisdictions to identify spatial clusters and areas with high OUD risk for higher precision of intervention deployment.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Medicaid hepatitis C virus treatment policies: impact on testing and treatment in the commercially insured</title>
+      <link>https://jianing-jenny-wang.github.io/publication/epstein-2022-ajpm/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://jianing-jenny-wang.github.io/publication/epstein-2022-ajpm/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;abstract&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Introduction&lt;/strong&gt;
+A total of 23 state Medicaid programs continue to restrict hepatitis C virus (HCV) medication access by liver disease or substance-use criteria, creating obstacles to HCV elimination and significant care disparities. Because public insurers often set precedents for private insurer coverage and clinician practice patterns, this study sought to analyze whether spillover occurs from state Medicaid HCV treatment restrictions to HCV screening and treatment rates in commercially insured individuals.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Methods&lt;/strong&gt;
+Investigators analyzed 2014‒2017 commercial claims data across 48 U.S. states (721,961,965 person-months) and used an interrupted times series design to compare hepatitis C virus screening and treatment rates before and after state Medicaid HCV treatment policy changes, adjusting for state-level random effects, Medicaid expansion status, and state drug overdose incidence rates, in states that relaxed Medicaid policy over the study period. Analysis occurred during 2019‒2021.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Results&lt;/strong&gt;
+Hepatitis C virus screening rates among commercially insured individuals increased after the corresponding state Medicaid program relaxed HCV treatment policy. Among states that changed Medicaid policy, those that reduced fibrosis or both fibrosis and abstinence restrictions experienced increased HCV screening rates by the study end compared with states that changed only abstinence restrictions (rate ratio=1.29; 95% CI=1.15, 1.44; and rate ratio=1.32; 95% CI=1.17, 1.50, respectively). Similar patterns did not occur in HCV treatment rates, which declined after 2015 across groups.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Conclusions&lt;/strong&gt;
+These data show that HCV screening rates increased among commercially insured individuals after the removal of Medicaid HCV treatment restrictions in the same state. This suggests that Medicaid treatment policies can spill over to affect health outcomes among commercially insured populations.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>On the estimation of population size – A comparison of capture-recapture and multiplier-benchmark methods</title>
+      <link>https://jianing-jenny-wang.github.io/presentations/2022-jsm/</link>
+      <pubDate>Sun, 07 Aug 2022 13:00:00 +0000</pubDate>
+      <guid>https://jianing-jenny-wang.github.io/presentations/2022-jsm/</guid>
+      <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract:&lt;/h2&gt;
+&lt;p&gt;Approaches to population size estimation of hidden populations are of importance across a wide spectrum of disciplines, especially when census and simple random sampling are impractical. The capture-recapture (CRC) method and the multiplier-benchmark method (MBM) are two commonly used approaches using data that partially capture the target population and overlap in a known way. Due to similarities in required data structures, the approaches are often used interchangeably without critical appraisal of the underlying assumptions, especially in the two-sample case. We describe the sampling mechanisms and assumptions underlying both approaches to highlight similarities and differences. We emphasize that the CRC method uses data sources as random samples and describes two-way inclusion patterns. In contrast, in MBM, one source collects a sub-population that is seen as fixed, and the one-way inclusion pattern is modeled. We also discuss the implications of these differences through simulation and real data to guide the choice of method in practice. Careful study of data structure, relationship, and possible generation process are crucial to assess the appropriateness of using these methods.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Keywords:&lt;/strong&gt; Population size estimation, capture-recapture, benchmark-multiplier&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Population size estimation methods using incomplete disease surveillance data</title>
+      <link>https://jianing-jenny-wang.github.io/research/hidden-population/</link>
+      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://jianing-jenny-wang.github.io/research/hidden-population/</guid>
+      <description>&lt;p&gt;We used multiple individually linked administrative health data to compare the results of stratified capture-recapture analysis and Bayesian multiplier benchmark analysis to estimate OUD prevalence in the Massachusetts population.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Population-level impact of initiating pharmacotherapy and linking to care people with opioid use disorder at inpatient medically managed withdrawal programs: an effectiveness and cost-effectiveness analysis</title>
+      <link>https://jianing-jenny-wang.github.io/publication/savinkina-2022-addc/</link>
+      <pubDate>Tue, 12 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://jianing-jenny-wang.github.io/publication/savinkina-2022-addc/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;abstract&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Background and Aims&lt;/strong&gt;
+Medications for opioid use disorder (MOUD) are shown to reduce opioid use and the risk of overdose. People with opioid use disorder (OUD) who exit inpatient medically managed withdrawal programs (detox) without initiating MOUD and linking to outpatient care have high rates of overdose. While detox encounters provide a theoretical opportunity for MOUD initiation, this is not ubiquitous in the United States. We used simulation modeling to estimate the population-level health effects and cost-effectiveness of a policy encouraging MOUD initiation during inpatient detox encounters.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Design, Setting and Participants&lt;/strong&gt;
+We employed a dynamic population state-transition model to evaluate the effectiveness and cost-effectiveness of using detox programs as venues for initiating MOUD in Massachusetts, United States. We compared standard of care, where no detox patients initiate MOUD or link to outpatient MOUD providers, to strategies of offering MOUD to detox patients and linking those patients to outpatient MOUD.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Measures&lt;/strong&gt;
+Budgetary impact to the Massachusetts health-care sector, incremental cost-effectiveness ratios (ICER) and total counts and percentage differences of fatal overdoses prevented.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Findings&lt;/strong&gt;
+Initiating MOUD in detox with perfect linkage to outpatient MOUD would reduce fatal overdoses by 4.5% [95% confidence interval (CI) = 2.3–5.9], at an ICER of $56 000 per quality-adjusted life-year (QALY) gained, compared with the standard of care. With moderate linkage, fatal overdoses would be reduced by 2.3% (95% CI= 1.2–3.1) with an ICER of $78 500 per QALY gained, compared with standard of care. Budgetary increase to Massachusetts health-care spending ranged from 0.5–1%.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;
+A simulation model indicates that initiation of medications for opioid use disorder and linkage policies among detox patients in Massachusetts, USA could prevent fatal opioid overdoses in the opioid use disorder population and would be cost-effective from a health-care sector perspective.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Empirical Calibration of a Simulation Model of Opioid Use Disorder</title>
+      <link>https://jianing-jenny-wang.github.io/presentations/2022-ness/</link>
+      <pubDate>Sat, 26 Mar 2022 13:00:00 +0000</pubDate>
+      <guid>https://jianing-jenny-wang.github.io/presentations/2022-ness/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. --&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Simulation models of opioid use disorder (OUD) aim at evaluating the impact of different treatment strategies on population-level outcomes. Researching Effective Strategies to Prevent Opioid Death (RESPOND) is a dynamic population state-transition model that simulates Massachusetts (MA) OUD population synthesizing data from the MA Public Health Data Warehouse, published survey studies, and randomized trials. We implement an empirical calibration approach to fit RESPOND to multiple calibration targets, including yearly counts of fatal overdoses and detox admissions in 2013-2015, and 2015 OUD population counts in MA. We used capture-recapture analysis to estimate the OUD population and to quantify uncertainty around calibration targets. The empirical calibration approach involves Latin hypercube sampling for a parameter search of the multidimensional space, comprising demographics of “arrivals”, overdose rates, treatment transition rates, and substance use transition probabilities. The algorithm accepts proposed parameter values when the respective model outputs are “close” to the observed calibration targets based on uncertainty ranges of targets. Calibration provided an excellent fit to the model calibration targets. The flexibility of the algorithm also allowed us to identify certain &amp;ldquo;questionable&amp;rdquo; parts of the model structure and explore the underlying relationships between the model parameters in an efficient manner. The calibrated model also provided a good fit to validation targets: non-overdose related deaths, percentage of active OUDs, and all types of overdose counts (fatal and non-fatal). In addition, the resulting set of values for the calibrated parameters will inform the priors of a more comprehensive Bayesian calibration. The calibrated RESPOND model will be employed to improve shared decision-making for OUD.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Modeling the cost-effectiveness and impact on fatal overdose and initiation of buprenorphine–naloxone treatment at syringe service programs</title>
+      <link>https://jianing-jenny-wang.github.io/publication/adam-2022-addc/</link>
+      <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://jianing-jenny-wang.github.io/publication/adam-2022-addc/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;abstract&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Aim&lt;/strong&gt;
+To estimate the number of treatment initiations, averted fatal opioid overdoses and the cost-effectiveness associated with offering buprenorphine–naloxone (buprenorphine) treatment on-site within existing syringe service programs (SSPs) in Massachusetts, USA.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Design, Setting and Participants&lt;/strong&gt;
+This was a cohort-based mathematical model and cost-effectiveness analysis. We derived model inputs from state and national surveillance data, clinical trials and observational cohort studies. We compared an intervention scenario where 30% of SSP clients initiated buprenorphine treatment on-site at least once annually to a status quo scenario where no buprenorphine was available on-site among community treatment providers in Massachusetts, 2020–30. In individuals with opioid use disorder (OUD) we assumed that 80% of SSP clients had recently injected drugs and that treatment within SSPs would have similar or improved retention compared with standard-of-care buprenorphine programs, but higher rates of active opioid use while in treatment.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Measurements&lt;/strong&gt;
+Number of treatment initiations (i.e. individuals began treatment on a medication for opioid use disorder or entered medically managed withdrawal), averted fatal opioid overdoses, quality-adjusted life-years (QALYs) and life-time discounted costs from a health sector and a limited societal perspective.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Findings&lt;/strong&gt;
+The status quo scenario resulted in 23 051 fatal overdoses and 1 511 613 treatment initiations over a 10-year simulation period. An intervention scenario with on-site SSP buprenorphine treatment averted 4797 (−20.8%) fatal opioid overdoses and resulted in 129 359 (+8.6%) additional treatment initiations compared with the status quo. The intervention scenario was the dominating scenario: providing OUD treatment through Massachusetts SSPs cost less (−$3612 per person) with patients accumulating more QALYs (0.2 per person) compared with the status quo scenario.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Conclusions&lt;/strong&gt;
+Offering buprenorphine treatment on-site within syringe service programs has the potential to decrease fatal overdoses substantially, improve treatment engagement and save on costs.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Factors associated with opioid-involved overdose among previously incarcerated people in the US: A community engaged narrative review</title>
+      <link>https://jianing-jenny-wang.github.io/publication/flamross-2022-ijdp/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://jianing-jenny-wang.github.io/publication/flamross-2022-ijdp/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;abstract&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Background&lt;/strong&gt;
+People with a history of incarceration are at high risk for opioid overdose. A variety of factors contribute to this elevated risk though our understanding of these factors is deficient. Research to identify risk and protective factors for overdose is often conducted using administrative data or researcher-derived surveys and without explicit input from people with lived experience. We aimed to understand the scope of U.S. research on factors associated with opioid overdose among previously incarcerated people. We did this by conducting a narrative review of the literature and convening expert panels of people with lived experience. We then categorized these factors using a social determinants of health framework to help contextualize our findings.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Methods&lt;/strong&gt;
+We first conducted a narrative review of the published literature. A search was performed using PubMed and APA PsycInfo. We then convened two expert panels consisting of people with lived experience and people who work with people who were previously incarcerated. Experts were asked to evaluate the literature derived factors for completeness and add factors that were not identified. Finally, we categorized factors as either intermediary or structural according to the World Health Organization&amp;rsquo;s Social Determinants of Health (SDOH) Framework.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Results&lt;/strong&gt;
+We identified 13 papers that met our inclusion criteria for the narrative review. Within these 13 papers, we identified 22 relevant factors for their role in the relationship between overdose and people with a history of incarceration, 16 were risk factors and six were protective factors. Five of these were structural factors (three risk and two protective) and 17 were intermediary factors (13 risk and four protective). The expert panels identified 21 additional factors, 10 of which were structural (six risk and four protective) and 11 of which were intermediary (eight risk and three protective).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;
+This narrative review along with expert panels demonstrates a gap in the published literature regarding factors associated with overdose among people who were previously incarcerated. Additionally, this review highlights a substantial gap with regard to the types of factors that are typically identified. Incorporating voices of people with lived experience is crucial to our understanding of overdose in this at-risk population.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Empirical Calibration of a Simulation Model of Opioid Use Disorder</title>
+      <link>https://jianing-jenny-wang.github.io/publication/madu-2022-preprint/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://jianing-jenny-wang.github.io/publication/madu-2022-preprint/</guid>
+      <description>&lt;h2 id=&#34;abstract&#34;&gt;abstract&lt;/h2&gt;
+&lt;p&gt;Simulation models of opioid use disorder (OUD) aim at evaluating the impact of different treatment
+strategies on population-level outcomes. Researching Effective Strategies to Prevent Opioid Death
+(RESPOND) is a dynamic population state-transition model that simulates Massachusetts (MA)
+OUD population synthesizing data from the MA Public Health Data Warehouse, published survey
+studies, and randomized trials. We implement an empirical calibration approach to fit RESPOND to
+multiple calibration targets, including yearly counts of fatal overdoses and detox admissions in
+2013-2015, and 2015 OUD population counts in MA. We used capture-recapture analysis to
+estimate the OUD population and to quantify uncertainty around calibration targets.
+1 The empirical
+calibration approach involves Latin hypercube sampling for a parameter search of the
+multidimensional space, comprising demographics of “arrivals”, overdose rates, treatment
+transition rates, and substance use transition probabilities. The algorithm accepts proposed
+parameter values when the respective model outputs are “close” to the observed calibration
+targets based on uncertainty ranges of targets. Calibration provided an excellent fit to the model
+calibration targets. The flexibility of the algorithm also allowed us to identify certain &amp;ldquo;questionable&amp;rdquo;
+parts of the model structure and explore the underlying relationships between the model
+parameters in an efficient manner. The calibrated model also provided a good fit to validation
+targets: non-overdose related deaths, percentage of active OUDs, and all types of overdose counts
+(fatal and non-fatal). In addition, the resulting set of values for the calibrated parameters will
+inform the priors of a more comprehensive Bayesian calibration. The calibrated RESPOND model
+will be employed to improve shared decision-making for OUD.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Safety Evaluation in Oncology Phase II Basket Trial</title>
+      <link>https://jianing-jenny-wang.github.io/research/basket-trial/</link>
+      <pubDate>Sat, 20 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://jianing-jenny-wang.github.io/research/basket-trial/</guid>
+      <description>&lt;p&gt;We extend the Bayesian hierarchical modeling framework from efficacy assessment studies in basket trial design to characterize the treatment’s safety profile. We propose Bayesian multi-level count models adopting different likelihood options with additional focus placed on the choice of prior for the basket-level standard deviation.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Massachusetts prevalence of opioid use disorder estimation revisited: Comparing a bayesian approach to standard capture-recapture methods</title>
+      <link>https://jianing-jenny-wang.github.io/presentations/2021-apha/</link>
+      <pubDate>Tue, 26 Oct 2021 13:00:00 +0000</pubDate>
+      <guid>https://jianing-jenny-wang.github.io/presentations/2021-apha/</guid>
+      <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Accurate estimates of opioid use disorder (OUD) are important for resource allocation and system planning. Indirect estimation methods may provide more accurate estimates than surveys. Using 2015 data from the Massachusetts Public Health Data Warehouse (PHD), we performed a comparative analysis of two indirect estimation methods to estimate OUD prevalence among the Massachusetts Medicaid population. We first used a seven data set capture/re-capture (CRC), stratified by age, sex, and county to account for the individual heterogeneity. We used log-linear models to estimate the unknown OUD population and estimated confidence intervals (CI) using distributional bootstrapping. We applied a Bayesian prevalence estimation model by linking Medicaid claims data to opioid-related death data with the assistance of OUD treatment data. In doing so, we were able to calculate opioid-related death rates for the known OUD population while off-treatment. We assumed that unknown persons with OUD had overdose death rates equal to the known population while off-treatment, following a Poisson distribution. We added random effects to counties and generated 95% credible intervals (CrI) from posteriors. The prevalence of OUD was 9.43% (95% CrI: 7.49%, 12.00%) in the Bayesian model and 8.60% (95% CI: 8.57%, 8.65%) in the CRC. Estimates in small counties were more different than large counties. Estimates were more similar among middle-aged groups than older or younger age groups. From this analysis, we found that the CRC, with more data available, provided a similar state-level estimates to the Bayesian method; but the group-specific estimates of unobserved OUD differed.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>HIV Pre-exposure prophylaxis and buprenorphine at a drug detoxification center during the opioid epidemic: opportunities and challenges</title>
+      <link>https://jianing-jenny-wang.github.io/publication/assoumou-2021-aab/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://jianing-jenny-wang.github.io/publication/assoumou-2021-aab/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;abstract&lt;/h2&gt;
+&lt;p&gt;Human immunodeficiency virus (HIV) pre-exposure prophylaxis (PrEP) and buprenorphine decrease HIV acquisition. Between November, 2016 - July, 2017, we surveyed persons (N=200) at a drug detoxification center to assess their interest in PrEP and in buprenorphine, and to examine factors associated with such interests. Over the previous 6 months, 58% (117/200) injected drugs, 87% (173/200) used opioids, 50% (85/171) had condomless sex. Only 22% (26/117) of persons who injected drugs were aware of PrEP, yet 74% (86/116) and 72% (84/116) were interested in oral or injectable PrEP, respectively. Thirty-eight percent (47/125) of persons not receiving buprenorphine or methadone expressed interest in buprenorphine. After multivariable adjustment, Latinx ethnicity was associated with interest in PrEP (aOR: 3.80; 95% CI, 1.37–10.53), while male gender (aOR: 2.76; 95% CI, 1.21–6.34) was associated with interest in buprenorphine. Opportunities exist to implement PrEP and buprenorphine within drug detoxification centers.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Keywords:&lt;/strong&gt; pre-exposure prophylaxis, persons who inject drugs, human immunodeficiency virus, medication for opioid use disorder, drug detoxification center&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Outcomes associated with medications for opioid use disorder among persons hospitalized for infective endocarditis</title>
+      <link>https://jianing-jenny-wang.github.io/publication/barocas-2021-cid/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://jianing-jenny-wang.github.io/publication/barocas-2021-cid/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;abstract&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Background&lt;/strong&gt;
+Endocarditis, once predominately found in older adults, is increasingly common among younger persons who inject drugs. Untreated opioid use disorder (OUD) complicates endocarditis management. We aimed to determine if rates of overdose and rehospitalization differ between persons with OUD with endocarditis who are initiated on medications for OUD (MOUDs) within 30 days of hospital discharge and those who are not.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Methods&lt;/strong&gt;
+We performed a retrospective cohort study using a large commercial health insurance claims database of persons ≥18 years between July 1, 2010, and June 30, 2016. Primary outcomes included opioid-related overdoses and 1-year all-cause rehospitalization. We calculated incidence rates for the primary outcomes and developed Cox hazards models to predict time from discharge to each primary outcome as a function of receipt of MOUDs.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Results&lt;/strong&gt;
+The cohort included 768 individuals (mean age 39 years, 51% male). Only 5.7% of people received MOUDs in the 30 days following hospitalization. The opioid-related overdose rate among those who did receive MOUDs in the 30 days following hospitalization was lower than among those who did not (5.8 per 100 person-years [95% confidence interval [CI], 5.1–6.4] vs 7.3 per 100-person years [95% CI, 7.1–7.5], respectively). The rate of 1-year rehospitalization among those who received MOUDs was also lower than those who did not (162.0 per 100 person-years [95% CI, 157.4–166.6] vs 255.4 per 100 person-years [95% CI, 254.0–256.8], respectively). In the Cox hazards models, the receipt of MOUDs was not associated with either of the outcomes.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Conclusions&lt;/strong&gt;
+MOUD receipt following endocarditis may improve important health-related outcomes in commercially insured persons with OUD.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Keywords:&lt;/strong&gt; endocarditis, opioid use disorder, opioid epidemic, medications, hospitalization&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Projected Estimates of Opioid Mortality After Community-Level Interventions</title>
+      <link>https://jianing-jenny-wang.github.io/publication/linas-2021-jama/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://jianing-jenny-wang.github.io/publication/linas-2021-jama/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;abstract&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Importance&lt;/strong&gt;  The United States is experiencing a crisis of opioid overdose. In response, the US Department of Health and Human Services has defined a goal to reduce overdose mortality by 40% by 2022.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Objective&lt;/strong&gt;  To identify specific combinations of 3 interventions (initiating more people to medications for opioid use disorder [MOUD], increasing 6-month retention with MOUD, and increasing naloxone distribution) associated with at least a 40% reduction in opioid overdose in simulated populations.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Design, Setting, and Participants&lt;/strong&gt;  This decision analytical model used a dynamic population-level state-transition model to project outcomes over a 2-year horizon. Each intervention scenario was compared with the counterfactual of no intervention in simulated urban and rural communities in Massachusetts. Simulation modeling was used to determine the associations of community-level interventions with opioid overdose rates. The 3 examined interventions were initiation of more people to MOUD, increasing individuals’ retention with MOUD, and increasing distribution of naloxone. Data were analyzed from July to November 2020.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Main Outcomes and Measures&lt;/strong&gt;  Reduction in overdose mortality, medication treatment capacity needs, and naloxone needs.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Results&lt;/strong&gt;  No single intervention was associated with a 40% reduction in overdose mortality in the simulated communities. Reaching this goal required use of MOUD and naloxone. Achieving a 40% reduction required that 10% to 15% of the estimated OUD population not already receiving MOUD initiate MOUD every month, with 45% to 60%% retention for at least 6 months, and increased naloxone distribution. In all feasible settings and scenarios, attaining a 40% reduction in overdose mortality required that in every month, at least 10% of the population with OUD who were not currently receiving treatment initiate an MOUD.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Conclusions and Relevance&lt;/strong&gt; In this modeling study, only communities with increased capacity for treating with MOUD and increased MOUD retention experienced a 40% decrease in overdose mortality. These findings could provide a framework for developing community-level interventions to reduce opioid overdose death.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Welcome to Wowchemy, the website builder for Hugo</title>
+      <link>https://jianing-jenny-wang.github.io/post/getting-started/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://jianing-jenny-wang.github.io/post/getting-started/</guid>
+      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
+&lt;li&gt;The template can be modified and customised to suit your needs. It&amp;rsquo;s a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a &lt;strong&gt;no-code solution (write in Markdown and customize with YAML parameters)&lt;/strong&gt; and having &lt;strong&gt;flexibility to later add even deeper personalization with HTML and CSS&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/starters/academic/preview.png&#34; alt=&#34;The template is mobile first with a responsive design to ensure that your site looks stunning on every device.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;get-started&#34;&gt;Get Started&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;👉 &lt;a href=&#34;https://wowchemy.com/templates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Create a new site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;📚 &lt;a href=&#34;https://wowchemy.com/docs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Personalize your site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💬 &lt;a href=&#34;https://discord.gg/z8wNYzb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chat with the &lt;strong&gt;Wowchemy community&lt;/strong&gt;&lt;/a&gt; or &lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Hugo community&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🐦 Twitter: &lt;a href=&#34;https://twitter.com/wowchemy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@wowchemy&lt;/a&gt; &lt;a href=&#34;https://twitter.com/GeorgeCushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@GeorgeCushen&lt;/a&gt; &lt;a href=&#34;https://twitter.com/search?q=%23MadeWithWowchemy&amp;amp;src=typed_query&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;#MadeWithWowchemy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💡 &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-themes/issues&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Request a &lt;strong&gt;feature&lt;/strong&gt; or report a &lt;strong&gt;bug&lt;/strong&gt; for &lt;em&gt;Wowchemy&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;⬆️ &lt;strong&gt;Updating Wowchemy?&lt;/strong&gt; View the &lt;a href=&#34;https://wowchemy.com/docs/hugo-tutorials/update/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Update Tutorial&lt;/a&gt; and &lt;a href=&#34;https://wowchemy.com/updates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;crowd-funded-open-source-software&#34;&gt;Crowd-funded open-source software&lt;/h2&gt;
+&lt;p&gt;To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.&lt;/p&gt;
+&lt;h3 id=&#34;-click-here-to-become-a-sponsor-and-help-support-wowchemys-future-httpswowchemycomsponsor&#34;&gt;&lt;a href=&#34;https://wowchemy.com/sponsor/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;❤️ Click here to become a sponsor and help support Wowchemy&amp;rsquo;s future ❤️&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;As a token of appreciation for sponsoring, you can &lt;strong&gt;unlock &lt;a href=&#34;https://wowchemy.com/sponsor/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;these&lt;/a&gt; awesome rewards and extra features 🦄✨&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;ecosystem&#34;&gt;Ecosystem&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/wowchemy/hugo-academic-cli&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Academic CLI&lt;/a&gt;:&lt;/strong&gt; Automatically import publications from BibTeX&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;inspiration&#34;&gt;Inspiration&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or &lt;a href=&#34;https://wowchemy.com/user-stories/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;view the &lt;strong&gt;showcase&lt;/strong&gt;&lt;/a&gt; of personal, project, and business sites.&lt;/p&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Page builder&lt;/strong&gt; - Create &lt;em&gt;anything&lt;/em&gt; with &lt;a href=&#34;https://wowchemy.com/docs/page-builder/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;widgets&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;elements&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Edit any type of content&lt;/strong&gt; - Blog posts, publications, talks, slides, projects, and more!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Create content&lt;/strong&gt; in &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Markdown&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;https://wowchemy.com/docs/import/jupyter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Jupyter&lt;/strong&gt;&lt;/a&gt;, or &lt;a href=&#34;https://wowchemy.com/docs/install-locally/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Plugin System&lt;/strong&gt; - Fully customizable &lt;a href=&#34;https://wowchemy.com/docs/customization/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;color&lt;/strong&gt; and &lt;strong&gt;font themes&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Display Code and Math&lt;/strong&gt; - Code highlighting and &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LaTeX math&lt;/a&gt; supported&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Integrations&lt;/strong&gt; - &lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Analytics&lt;/a&gt;, &lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Disqus commenting&lt;/a&gt;, Maps, Contact Forms, and more!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Beautiful Site&lt;/strong&gt; - Simple and refreshing one page design&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Industry-Leading SEO&lt;/strong&gt; - Help get your website found on search engines and social media&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Media Galleries&lt;/strong&gt; - Display your images and videos with captions in a customizable gallery&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mobile Friendly&lt;/strong&gt; - Look amazing on every screen with a mobile friendly version of your site&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-language&lt;/strong&gt; - 34+ language packs including English, 中文, and Português&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-user&lt;/strong&gt; - Each author gets their own profile page&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Privacy Pack&lt;/strong&gt; - Assists with GDPR&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Stand Out&lt;/strong&gt; - Bring your site to life with animation, parallax backgrounds, and scroll effects&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;One-Click Deployment&lt;/strong&gt; - No servers. No databases. Only files.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;p&gt;Wowchemy and its templates come with &lt;strong&gt;automatic day (light) and night (dark) mode&lt;/strong&gt; built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the &lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo&lt;/a&gt; to see it in action! Day/night mode can also be disabled by the site admin in &lt;code&gt;params.toml&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/customization&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Choose a stunning &lt;strong&gt;theme&lt;/strong&gt; and &lt;strong&gt;font&lt;/strong&gt;&lt;/a&gt; for your site. Themes are fully customizable.&lt;/p&gt;
+&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
+&lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-themes/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hepatitis C Management at Federally Qualified Health Centers during the Opioid Epidemic: A Cost-Effectiveness Study</title>
+      <link>https://jianing-jenny-wang.github.io/publication/assoumou-2020-ajpm/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://jianing-jenny-wang.github.io/publication/assoumou-2020-ajpm/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;abstract&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Background&lt;/strong&gt;
+The opioid epidemic has been associated with an increase in hepatitis C virus (HCV) infections. Federally qualified health centers (FQHCs) have a high burden of hepatitis C disease and could serve as venues to enhance testing and treatment.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Methods&lt;/strong&gt;
+We estimated clinical outcomes and the cost-effectiveness of hepatitis C testing and treatment at US FQHCs using individual-based simulation modeling. We used individual-level data from 57 FQHCs to model 9 strategies, including permutations of HCV antibody testing modality, person initiating testing, and testing approach. Outcomes included life expectancy, quality-adjusted life-years (QALY), hepatitis C cases identified, treated and cured; and incremental cost-effectiveness ratios.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Results&lt;/strong&gt;
+Compared with current practice (risk-based with laboratory-based testing), routine rapid point-of-care testing initiated and performed by a counselor identified 68% more cases after (nonreflex) RNA testing in the first month of the intervention and led to a 17% reduction in cirrhosis cases and a 22% reduction in liver deaths among those with cirrhosis over a lifetime. Routine rapid testing initiated by a counselor or a clinician provided better outcomes at either lower total cost or at lower cost per QALY gained, when compared with all other strategies. Findings were most influenced by the proportion of patients informed of their anti-HCV test results.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Conclusions&lt;/strong&gt;
+Routine anti-HCV testing followed by prompt RNA testing for positives is recommended at FQHCs to identify infections. If using dedicated staff or point-of-care testing is not feasible, then measures to improve immediate patient knowledge of antibody status should be considered.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Rapid versus laboratory-based testing for HIV and hepatitis C at a drug detoxification treatment center: a randomized trial</title>
+      <link>https://jianing-jenny-wang.github.io/publication/assoumou-2020-jid/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://jianing-jenny-wang.github.io/publication/assoumou-2020-jid/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;abstract&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Background&lt;/strong&gt;
+A health department survey revealed nearly half employ laboratory-based HIV and HCV testing (LBT) over rapid testing (RT) in nonhospital settings such as drug detoxification centers. LBT has higher sensitivity for acute HIV infection compared to RT but LBT is not point of care and may result in fewer diagnoses due to loss to follow-up before result delivery.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Methods&lt;/strong&gt;
+We conducted a randomized trial comparing real-world case notification of RT (Orasure) vs LBT (HIV Combo Ag/Ab EIA, HCV EIA) for HIV and HCV at a drug detoxification center. Primary outcome was receipt of test results within 2 weeks.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Results&lt;/strong&gt;
+Among 341 individuals screened (11/2016–7/2017), 200 met inclusion criteria; 58% injected drugs and 31% shared needles in the previous 6 months. Of the 200 randomized, 98 received RT and 102 LBT. Among all participants, 0.5% were positive for HIV and 48% for HCV; 96% received test results in the RT arm and 42% in the LBT arm (odds ratio, 28.72; 95% confidence interval, 10.27–80.31). Real-world case notification was 95% and 93% for HIV and HCV RT, respectively, compared to 42% for HIV and HCV LBT.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Conclusions&lt;/strong&gt;
+RT has higher real-world case notification than LBT at drug detoxification centers.&lt;/p&gt;
+&lt;p&gt;Clinical trials registration: NCT02869776.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Keywords:&lt;/strong&gt; HIV, hepatitis C, testing, linkage to care, injection drug use, drug treatment&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>HCV testing and treatment in a national sample of US federally qualified health centers during the opioid epidemic</title>
+      <link>https://jianing-jenny-wang.github.io/publication/assoumou-2020-jgim/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://jianing-jenny-wang.github.io/publication/assoumou-2020-jgim/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;abstract&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Background&lt;/strong&gt;
+Federally qualified health centers (FQHCs) serve diverse communities in the United States (U.S.) and could function as important venues to diagnose and treat hepatitis C virus (HCV) infections.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Objective&lt;/strong&gt;
+To determine HCV testing proportion and factors associated with treatment initiation, and treatment outcomes in a large sample of FQHCs around the U.S.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Design&lt;/strong&gt;
+Retrospective cohort study using electronic health records of three hundred and forty-one FQHC clinical sites participating in the OCHIN network in 19 U.S. states.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Participants&lt;/strong&gt;
+Adult patients (≥ 18 years of age) seen between January 01, 2012, and June 30, 2017.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Main Measures&lt;/strong&gt;
+HCV testing proportion, stratified by diagnosis of opioid use disorder (OUD); treatment initiation rates; and sustained virologic response (SVR), defined as undetectable HCV RNA 6 months after treatment initiation.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Key Results&lt;/strong&gt;
+Of the 1,508,525 patients meeting inclusion criteria, 88,384 (5.9%) were tested for HCV, and 8694 (9.8%) of individuals tested had reactive results. Of the 6357 with HCV RNA testing, 4092 (64.4%) had detectable RNA. Twelve percent of individuals with chronic HCV and evaluable data initiated treatment. Of those, 87% reached SVR. Having commercial insurance (aOR, 2.11; 95% CI, 1.46–3.05), older age (aOR, 1.07; 95% CI, 1.06–1.09), and being Hispanic/Latino (aOR, 1.87; 95% CI, 1.38–2.53) or Asian/Pacific Islander (aOR, 2.47; 95% CI, 1.46–4.19) were independently associated with higher odds of treatment initiation after multivariable adjustment. In contrast, women (aOR, 0.76; 95% CI, 0.60–0.97) and the uninsured (aOR, 0.15; 95% CI, 0.09–0.25) were less likely to initiate treatment. Only 8% of individuals with chronic HCV were tested for HIV, and 15% of individuals with identified OUD were tested for HCV.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Conclusions&lt;/strong&gt;
+Fewer than 20% of individuals with identified OUD were tested for HCV. SVR was lower than findings in other real-world cohorts. Measures to improve outcomes should be considered with the expansion of HCV management into community clinics.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Opioid overdose and inpatient care for substance use disorder care in Massachusetts</title>
+      <link>https://jianing-jenny-wang.github.io/publication/morgan-2020-jsat/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://jianing-jenny-wang.github.io/publication/morgan-2020-jsat/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;abstract&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Background:&lt;/strong&gt;
+Inpatient treatment for substance use disorders is a collection of strategies ranging from short term detoxification to longer term residential treatment. How those with opioid use disorder (OUD) navigate this inpatient treatment system after an encounter for detoxification and subsequent risk of opioid-related overdose is not well understood.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Methods:&lt;/strong&gt;
+We used a comprehensive Massachusetts database to characterize the movement of people with OUD through inpatient care from 2013–2015, identifying admissions to inpatient detoxification, subsequent inpatient care, and opioid overdose while navigating treatment. We measured the person-years accumulated during each transition period to calculate rates of opioid-related overdose, and investigated how overdose differed in select populations.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Results:&lt;/strong&gt;
+Sixty-one percent of inpatient detoxification admissions resulted in a subsequent inpatient detoxification admission without progressing to further inpatient care. Overall, there were 287 fatal and 7,337 non-fatal overdoses. Persons exiting treatment after detoxification had the greatest risk of overdose (17.3 per 100 person-years) compared to those who exited after subsequent inpatient care (ranging from 5.9 to 6.6 overdoses per 100 person-years). Non-Hispanic whites were most at risk for opioid related overdose with 16 overdoses per 100 person-years and non-Hispanic blacks had the lowest risk with 5 overdoses per 100 person-years.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Conclusions:&lt;/strong&gt;
+The majority of inpatient detoxification admissions do not progress to further inpatient care. Recurrent inpatient detoxification admission is common, likely signifying relapse. Rather than functioning as the first step to inpatient care, inpatient detoxification might be more effective as a venue for implementing strategies to expand addiction services or treatment such as medications for opioid use disorder.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Keywords:&lt;/strong&gt; substance use, opioid use, overdose&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bayesian</title>
+      <link>https://jianing-jenny-wang.github.io/research0/application/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://jianing-jenny-wang.github.io/research0/application/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimation and correction of bias in network simulations based on respondent-driven sampling data</title>
+      <link>https://jianing-jenny-wang.github.io/publication/zhu-2020-sr/</link>
+      <pubDate>Tue, 14 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://jianing-jenny-wang.github.io/publication/zhu-2020-sr/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;abstract&lt;/h2&gt;
+&lt;p&gt;Respondent-driven sampling (RDS) is widely used for collecting data on hard-to-reach populations, including information about the structure of the networks connecting the individuals. Characterizing network features can be important for designing and evaluating health programs, particularly those that involve infectious disease transmission. While the validity of population proportions estimated from RDS-based datasets has been well studied, little is known about potential biases in inference about network structure from RDS. We developed a mathematical and statistical platform to simulate network structures with exponential random graph models, and to mimic the data generation mechanisms produced by RDS. We used this framework to characterize biases in three important network statistics – density/mean degree, homophily, and transitivity. Generalized linear models were used to predict the network statistics of the original network from the network statistics of the sample network and observable sample design features. We found that RDS may introduce significant biases in the estimation of density/mean degree and transitivity, and may exaggerate homophily when preferential recruitment occurs. Adjustments to network-generating statistics derived from the prediction models could substantially improve validity of simulated networks in terms of density, and could reduce bias in replicating mean degree, homophily, and transitivity from the original network.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cost-effectiveness and budgetary impact of hepatitis C virus testing, treatment, and linkage to care in US prisons</title>
+      <link>https://jianing-jenny-wang.github.io/publication/assoumou-2020-cid/</link>
+      <pubDate>Tue, 17 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://jianing-jenny-wang.github.io/publication/assoumou-2020-cid/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;abstract&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Background&lt;/strong&gt;
+Hepatitis C virus (HCV) testing and treatment uptake in prisons remains low. We aimed to estimate clinical outcomes, cost-effectiveness (CE), and budgetary impact (BI) of HCV testing and treatment in United States (US) prisons or linkage to care at release.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Methods&lt;/strong&gt;
+We used individual-based simulation modeling with healthcare and Department of Corrections (DOC) perspectives for CE and BI analyses, respectively. We simulated a US prison cohort at entry using published data and Washington State DOC individual-level data. We considered permutations of testing (risk factor based, routine at entry or at release, no testing), treatment (if liver fibrosis stage ≥F3, for all HCV infected or no treatment), and linkage to care (at release or no linkage). Outcomes included quality-adjusted life-years (QALY); cases identified, treated, and cured; cirrhosis cases avoided; incremental cost-effectiveness ratios; DOC costs (2016 US dollars); and BI (healthcare cost/prison entrant) to generalize to other states.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Results&lt;/strong&gt;
+Compared to “no testing, no treatment, and no linkage to care,” the “test all, treat all, and linkage to care at release” model increased the lifetime sustained virologic response by 23%, reduced cirrhosis cases by 54% at a DOC annual additional cost of $1440 per prison entrant, and would be cost-effective. At current drug prices, targeted testing and liver fibrosis–based treatment provided worse outcomes at higher cost or worse outcomes at higher cost per QALY gained. In sensitivity analysis, fibrosis-based treatment restrictions were cost-effective at previous higher drug costs.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Conclusions&lt;/strong&gt;
+Although costly, widespread testing and treatment in prisons is considered to be of good value at current drug prices.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Keywords:&lt;/strong&gt; hepatitis C, prisons, computer simulation model, cost-effectiveness, budgetary impact&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hepatitis C virus antibody testing among 13-to 21-year-olds in a large sample of US federally qualified health centers</title>
+      <link>https://jianing-jenny-wang.github.io/publication/epstein-2019-jama/</link>
+      <pubDate>Tue, 10 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://jianing-jenny-wang.github.io/publication/epstein-2019-jama/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;abstract&lt;/h2&gt;
+&lt;p&gt;Hepatitis C virus (HCV) incidence is increasing in the United States, with most new transmissions occurring among people younger than 30 years who inject drugs. Fifteen- to 24-year-olds represent an increasing proportion of reported chronic HCV infections, rising from 3.8% in 2009 to 9.1% in 2013-2016.1 Although HCV testing and linkage to care are crucial steps toward eliminating HCV, to our knowledge no studies have specifically examined HCV testing practices among youths. Current guidance recommends HCV testing for children or adults with HCV risk,3 including anyone who has injected drugs, the most frequently identified risk factor.1,2 We sought to characterize HCV testing and the HCV care cascade among 13- to 21-year-olds accessing US federally qualified health centers (FQHCs), an important health care source for underserved communities.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Meta-Modelling for Policy Simulations with Multivariate Outcomes</title>
+      <link>https://jianing-jenny-wang.github.io/publication/zhong-2019-conf/</link>
+      <pubDate>Sun, 20 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://jianing-jenny-wang.github.io/publication/zhong-2019-conf/</guid>
+      <description>&lt;!-- 
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;abstract&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Purpose:&lt;/strong&gt; A metamodel is a simplified approximation of the relationships between inputs and outputs in a simulation model. A challenge in metamodeling for policy analysis is that there are often multiple correlated outputs of interest: for example, costs and effects of different policy choices. We develop a framework for metamodeling that accommodates multivariate outcomes, and we compare alternatives for the choice of the base learning algorithm.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Methods:&lt;/strong&gt; To generate metamodels for multivariate outcomes, we combined two algorithm adaptation methods – multi-target stacking (MTS) and regression chain with maximum correlation chain (RCCC) – together with different base learners including linear regression (LR), elastic net (EN) with second-order terms, Gaussian process regression (GPR), random forests (RFs), and neural networks (NNs). We optimized the integrated models using variable selection and hyperparameter tuning. We compared approaches in terms of model accuracy, efficiency, and interpretability. To illustrate the framework, we used inputs and outputs from an individual-based decision analytic simulation model of testing and treatment strategies for chronic hepatitis C virus in correctional settings. The training data set included 2,000 simulations, each summarized by 37 input variables and 60 output variables (5 economic and health outcomes for 6 alternative strategies measured over 2 time horizons).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Results:&lt;/strong&gt; The output variables from the simulation model were heavily correlated (average rho=0.58). Without multioutput algorithm adaptation methods, in-sample fit (measured by R2) ranged from 0.881 for LR to 0.987 for GPR. Inclusion of multioutput algorithm adaptation methods increased R2by 0.004 on average across all base leaners, and variable selection and hyperparameter tuning added 0.009. In terms of model efficiency, simpler models such as LR, EN, and RF required minimal training and prediction time. GPR had short prediction time, but the training time was heavily affected by the size of the training dataset. NN had the longest training and prediction time. For model interpretability, LR and EN have clear advantages, but we also consider methods for improving interpretability of other models.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Conclusions:&lt;/strong&gt; This study provides a framework for metamodeling in policy analyses with multivariate outcomes of interest. While the advantages and disadvantages of specific learning algorithms may vary across different modeling applications, we expect that the general framework presented here will have broad applicability to decision analytic models in health and medicine.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Writing technical content in Markdown</title>
+      <link>https://jianing-jenny-wang.github.io/post/writing-technical-content/</link>
+      <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://jianing-jenny-wang.github.io/post/writing-technical-content/</guid>
+      <description>&lt;p&gt;Wowchemy is designed to give technical content creators a seamless experience. You can focus on the content and Wowchemy handles the rest.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Wowchemy.&lt;/p&gt;
+&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
+&lt;h3 id=&#34;code&#34;&gt;Code&lt;/h3&gt;
+&lt;p&gt;Wowchemy supports a Markdown extension for highlighting code syntax. You can customize the styles under the &lt;code&gt;syntax_highlighter&lt;/code&gt; option in your &lt;code&gt;config/_default/params.yaml&lt;/code&gt; file.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;```python
+import pandas as pd
+data = pd.read_csv(&amp;quot;data.csv&amp;quot;)
+data.head()
+```
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;pandas&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;as&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;pd&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;data&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;pd&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;read_csv&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;data.csv&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;data&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;head&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;()&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;mindmaps&#34;&gt;Mindmaps&lt;/h3&gt;
+&lt;p&gt;Wowchemy supports a Markdown extension for mindmaps.&lt;/p&gt;
+&lt;p&gt;Simply insert a Markdown &lt;code&gt;markmap&lt;/code&gt; code block and optionally set the height of the mindmap as shown in the example below.&lt;/p&gt;
+&lt;p&gt;A simple mindmap defined as a Markdown list:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;
+&lt;code&gt;
+```markmap {height=&#34;200px&#34;}
+- Hugo Modules
+  - wowchemy
+  - wowchemy-plugins-netlify
+  - wowchemy-plugins-netlify-cms
+  - wowchemy-plugins-reveal
+```
+&lt;/code&gt;
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;div class=&#34;markmap&#34; style=&#34;height: 200px;&#34;&gt;
+
+&lt;pre&gt;- Hugo Modules
+  - wowchemy
+  - wowchemy-plugins-netlify
+  - wowchemy-plugins-netlify-cms
+  - wowchemy-plugins-reveal&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;A more advanced mindmap with formatting, code blocks, and math:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;
+&lt;code&gt;
+```markmap
+- Mindmaps
+  - Links
+    - [Wowchemy Docs](https://wowchemy.com/docs/)
+    - [Discord Community](https://discord.gg/z8wNYzb)
+    - [GitHub](https://github.com/wowchemy/wowchemy-hugo-themes)
+  - Features
+    - Markdown formatting
+    - **inline** ~~text~~ *styles*
+    - multiline
+      text
+    - `inline code`
+    -
+      ```js
+      console.log(&#39;hello&#39;);
+      console.log(&#39;code block&#39;);
+      ```
+    - Math: $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$
+```
+&lt;/code&gt;
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;div class=&#34;markmap&#34; style=&#34;height: 500px;&#34;&gt;
+
+&lt;pre&gt;- Mindmaps
+  - Links
+    - [Wowchemy Docs](https://wowchemy.com/docs/)
+    - [Discord Community](https://discord.gg/z8wNYzb)
+    - [GitHub](https://github.com/wowchemy/wowchemy-hugo-themes)
+  - Features
+    - Markdown formatting
+    - **inline** ~~text~~ *styles*
+    - multiline
+      text
+    - `inline code`
+    -
+      ```js
+      console.log(&#39;hello&#39;);
+      console.log(&#39;code block&#39;);
+      ```
+    - Math: $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&#34;charts&#34;&gt;Charts&lt;/h3&gt;
+&lt;p&gt;Wowchemy supports the popular &lt;a href=&#34;https://plot.ly/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Plotly&lt;/a&gt; format for interactive charts.&lt;/p&gt;
+&lt;p&gt;Save your Plotly JSON in your page folder, for example &lt;code&gt;line-chart.json&lt;/code&gt;, and then add the &lt;code&gt;{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code&gt; shortcode where you would like the chart to appear.&lt;/p&gt;
+&lt;p&gt;Demo:&lt;/p&gt;
+
+
+
+
+&lt;div id=&#34;chart-628974531&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;script&gt;
+  (function() {
+    let a = setInterval( function() {
+      if ( typeof window.Plotly === &#39;undefined&#39; ) {
+        return;
+      }
+      clearInterval( a );
+
+      Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
+        Plotly.plot(&#39;chart-628974531&#39;, chart.data, chart.layout, {responsive: true});
+      });
+    }, 500 );
+  })();
+&lt;/script&gt;
+
+&lt;p&gt;You might also find the &lt;a href=&#34;http://plotly-json-editor.getforge.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Plotly JSON Editor&lt;/a&gt; useful.&lt;/p&gt;
+&lt;h3 id=&#34;math&#34;&gt;Math&lt;/h3&gt;
+&lt;p&gt;Wowchemy supports a Markdown extension for $\LaTeX$ math. You can enable this feature by toggling the &lt;code&gt;math&lt;/code&gt; option in your &lt;code&gt;config/_default/params.yaml&lt;/code&gt; file.&lt;/p&gt;
+&lt;p&gt;To render &lt;em&gt;inline&lt;/em&gt; or &lt;em&gt;block&lt;/em&gt; math, wrap your LaTeX math with &lt;code&gt;{{&amp;lt; math &amp;gt;}}$...${{&amp;lt; /math &amp;gt;}}&lt;/code&gt; or &lt;code&gt;{{&amp;lt; math &amp;gt;}}$$...$${{&amp;lt; /math &amp;gt;}}&lt;/code&gt;, respectively. (We wrap the LaTeX math in the Wowchemy &lt;em&gt;math&lt;/em&gt; shortcode to prevent Hugo rendering our math as Markdown. The &lt;em&gt;math&lt;/em&gt; shortcode is new in v5.5-dev.)&lt;/p&gt;
+&lt;p&gt;Example &lt;strong&gt;math block&lt;/strong&gt;:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-latex&#34; data-lang=&#34;latex&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;{{&lt;/span&gt;&amp;lt; math &amp;gt;&lt;span class=&#34;nb&#34;&gt;}}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;sb&#34;&gt;$$&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\gamma&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;_{n} &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\frac&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{ &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\left&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; | &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\left&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; x_{n} &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; x_{n&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;} &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\right&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;^T &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\left&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\nabla&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; F &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; x_{n}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\nabla&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; F &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; x_{n&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\right&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\right&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; |}{&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\left&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\|\nabla&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; F&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{x}_{n}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\nabla&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; F&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{x}_{n&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\right&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\|&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;^&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;$$&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;{{&lt;/span&gt;&amp;lt; /math &amp;gt;&lt;span class=&#34;nb&#34;&gt;}}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
+
+
+
+$$\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}$$
+
+&lt;p&gt;Example &lt;strong&gt;inline math&lt;/strong&gt; &lt;code&gt;{{&amp;lt; math &amp;gt;}}$\nabla F(\mathbf{x}_{n})${{&amp;lt; /math &amp;gt;}}&lt;/code&gt; renders as 
+
+$\nabla F(\mathbf{x}_{n})$.&lt;/p&gt;
+&lt;p&gt;Example &lt;strong&gt;multi-line math&lt;/strong&gt; using the math linebreak (&lt;code&gt;\\&lt;/code&gt;):&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-latex&#34; data-lang=&#34;latex&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;{{&lt;/span&gt;&amp;lt; math &amp;gt;&lt;span class=&#34;nb&#34;&gt;}}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;sb&#34;&gt;$$&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;f&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;k;p_{&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}^{&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;*&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\begin&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{cases}p_{&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}^{&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;*&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;} &amp;amp; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\text&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{if }k&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;, &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\\&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;p_{&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}^{&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;*&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;} &amp;amp; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\text&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{if }k&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\end&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{cases}&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;$$&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;{{&lt;/span&gt;&amp;lt; /math &amp;gt;&lt;span class=&#34;nb&#34;&gt;}}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
+
+
+
+
+$$
+f(k;p_{0}^{*}) = \begin{cases}p_{0}^{*} &amp; \text{if }k=1, \\
+1-p_{0}^{*} &amp; \text{if }k=0.\end{cases}
+$$
+
+
+&lt;h3 id=&#34;diagrams&#34;&gt;Diagrams&lt;/h3&gt;
+&lt;p&gt;Wowchemy supports a Markdown extension for diagrams. You can enable this feature by toggling the &lt;code&gt;diagram&lt;/code&gt; option in your &lt;code&gt;config/_default/params.toml&lt;/code&gt; file or by adding &lt;code&gt;diagram: true&lt;/code&gt; to your page front matter.&lt;/p&gt;
+&lt;p&gt;An example &lt;strong&gt;flowchart&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;```mermaid
+graph TD
+A[Hard] --&amp;gt;|Text| B(Round)
+B --&amp;gt; C{Decision}
+C --&amp;gt;|One| D[Result 1]
+C --&amp;gt;|Two| E[Result 2]
+```
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;div class=&#34;mermaid&#34;&gt;graph TD
+A[Hard] --&gt;|Text| B(Round)
+B --&gt; C{Decision}
+C --&gt;|One| D[Result 1]
+C --&gt;|Two| E[Result 2]
+&lt;/div&gt;
+&lt;p&gt;An example &lt;strong&gt;sequence diagram&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;```mermaid
+sequenceDiagram
+Alice-&amp;gt;&amp;gt;John: Hello John, how are you?
+loop Healthcheck
+    John-&amp;gt;&amp;gt;John: Fight against hypochondria
+end
+Note right of John: Rational thoughts!
+John--&amp;gt;&amp;gt;Alice: Great!
+John-&amp;gt;&amp;gt;Bob: How about you?
+Bob--&amp;gt;&amp;gt;John: Jolly good!
+```
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;div class=&#34;mermaid&#34;&gt;sequenceDiagram
+Alice-&gt;&gt;John: Hello John, how are you?
+loop Healthcheck
+    John-&gt;&gt;John: Fight against hypochondria
+end
+Note right of John: Rational thoughts!
+John--&gt;&gt;Alice: Great!
+John-&gt;&gt;Bob: How about you?
+Bob--&gt;&gt;John: Jolly good!
+&lt;/div&gt;
+&lt;p&gt;An example &lt;strong&gt;Gantt diagram&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;```mermaid
+gantt
+section Section
+Completed :done,    des1, 2014-01-06,2014-01-08
+Active        :active,  des2, 2014-01-07, 3d
+Parallel 1   :         des3, after des1, 1d
+Parallel 2   :         des4, after des1, 1d
+Parallel 3   :         des5, after des3, 1d
+Parallel 4   :         des6, after des4, 1d
+```
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;div class=&#34;mermaid&#34;&gt;gantt
+section Section
+Completed :done,    des1, 2014-01-06,2014-01-08
+Active        :active,  des2, 2014-01-07, 3d
+Parallel 1   :         des3, after des1, 1d
+Parallel 2   :         des4, after des1, 1d
+Parallel 3   :         des5, after des3, 1d
+Parallel 4   :         des6, after des4, 1d
+&lt;/div&gt;
+&lt;p&gt;An example &lt;strong&gt;class diagram&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;```mermaid
+classDiagram
+Class01 &amp;lt;|-- AveryLongClass : Cool
+Class03 *-- Class04
+Class05 o-- Class06
+Class07 .. Class08
+Class09 --&amp;gt; C2 : Where am i?
+Class09 --* C3
+Class09 --|&amp;gt; Class07
+Class07 : equals()
+Class07 : Object[] elementData
+Class01 : size()
+Class01 : int chimp
+Class01 : int gorilla
+Class08 &amp;lt;--&amp;gt; C2: Cool label
+```
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;div class=&#34;mermaid&#34;&gt;classDiagram
+Class01 &lt;|-- AveryLongClass : Cool
+Class03 *-- Class04
+Class05 o-- Class06
+Class07 .. Class08
+Class09 --&gt; C2 : Where am i?
+Class09 --* C3
+Class09 --|&gt; Class07
+Class07 : equals()
+Class07 : Object[] elementData
+Class01 : size()
+Class01 : int chimp
+Class01 : int gorilla
+Class08 &lt;--&gt; C2: Cool label
+&lt;/div&gt;
+&lt;p&gt;An example &lt;strong&gt;state diagram&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;```mermaid
+stateDiagram
+[*] --&amp;gt; Still
+Still --&amp;gt; [*]
+Still --&amp;gt; Moving
+Moving --&amp;gt; Still
+Moving --&amp;gt; Crash
+Crash --&amp;gt; [*]
+```
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;div class=&#34;mermaid&#34;&gt;stateDiagram
+[*] --&gt; Still
+Still --&gt; [*]
+Still --&gt; Moving
+Moving --&gt; Still
+Moving --&gt; Crash
+Crash --&gt; [*]
+&lt;/div&gt;
+&lt;h3 id=&#34;todo-lists&#34;&gt;Todo lists&lt;/h3&gt;
+&lt;p&gt;You can even write your todo lists in Markdown too:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;- [x]&lt;/span&gt; Write math example
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;k&#34;&gt;- [x]&lt;/span&gt; Write diagram example
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;- [ ]&lt;/span&gt; Do something else
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Write math example
+&lt;ul&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Write diagram example&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Do something else&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;tables&#34;&gt;Tables&lt;/h3&gt;
+&lt;p&gt;Save your spreadsheet as a CSV file in your page&amp;rsquo;s folder and then render it by adding the &lt;em&gt;Table&lt;/em&gt; shortcode to your page:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-go&#34; data-lang=&#34;go&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;{{&amp;lt;&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;table&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;path&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;results.csv&amp;#34;&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;header&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;true&amp;#34;&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;caption&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;Table 1: My results&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;}}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+&lt;table class=&#34;table&#34;&gt;
+  
+    
+    
+    &lt;tr&gt;  &lt;th&gt;customer_id&lt;/th&gt;  &lt;th&gt;score&lt;/th&gt;  &lt;/tr&gt;
+  
+  
+    &lt;tr&gt;
+      
+        
+          &lt;td data-table-dtype=&#34;number&#34;&gt;1&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;number&#34;&gt;0&lt;/td&gt;
+        
+      
+    &lt;/tr&gt;
+  
+    &lt;tr&gt;
+      
+        
+          &lt;td data-table-dtype=&#34;number&#34;&gt;2&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34;&gt;0.5&lt;/td&gt;
+        
+      
+    &lt;/tr&gt;
+  
+    &lt;tr&gt;
+      
+        
+          &lt;td data-table-dtype=&#34;number&#34;&gt;3&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;number&#34;&gt;1&lt;/td&gt;
+        
+      
+    &lt;/tr&gt;
+  
+  
+    &lt;caption&gt;Table 1: My results&lt;/caption&gt;
+  
+&lt;/table&gt;
+
+&lt;h3 id=&#34;callouts&#34;&gt;Callouts&lt;/h3&gt;
+&lt;p&gt;Academic supports a &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/#callouts&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcode for callouts&lt;/a&gt;, also referred to as &lt;em&gt;asides&lt;/em&gt;, &lt;em&gt;hints&lt;/em&gt;, or &lt;em&gt;alerts&lt;/em&gt;. By wrapping a paragraph in &lt;code&gt;{{% callout note %}} ... {{% /callout %}}&lt;/code&gt;, it will render as an aside.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% callout note %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% /callout %}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h3 id=&#34;spoilers&#34;&gt;Spoilers&lt;/h3&gt;
+&lt;p&gt;Add a spoiler to a page to reveal text, such as an answer to a question, after a button is clicked.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;spoiler&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;text&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;Click to view the spoiler&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;You found me!
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;spoiler&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-6&#34;&gt;
+  &lt;summary&gt;Click to view the spoiler&lt;/summary&gt;
+  &lt;p&gt;You found me!&lt;/p&gt;
+&lt;/details&gt;
+&lt;h3 id=&#34;icons&#34;&gt;Icons&lt;/h3&gt;
+&lt;p&gt;Academic enables you to use a wide range of &lt;a href=&#34;https://wowchemy.com/docs/getting-started/page-builder/#icons&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;icons from &lt;em&gt;Font Awesome&lt;/em&gt; and &lt;em&gt;Academicons&lt;/em&gt;&lt;/a&gt; in addition to &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/#emojis&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;emojis&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Here are some examples using the &lt;code&gt;icon&lt;/code&gt; shortcode to render icons:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;icon&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;terminal&amp;#34;&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;pack&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;fas&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}} Terminal  
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;icon&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;python&amp;#34;&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;pack&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;fab&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}} Python  
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;icon&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;r-project&amp;#34;&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;pack&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;fab&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}} R
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-terminal  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Terminal&lt;br&gt;
+
+  &lt;i class=&#34;fab fa-python  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Python&lt;br&gt;
+
+  &lt;i class=&#34;fab fa-r-project  pr-1 fa-fw&#34;&gt;&lt;/i&gt; R&lt;/p&gt;
+&lt;h3 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deriving the optimal limit of detection for an HCV point-of-care test for viraemic infection: Analysis of a global dataset</title>
+      <link>https://jianing-jenny-wang.github.io/publication/freiman-2019-joh/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://jianing-jenny-wang.github.io/publication/freiman-2019-joh/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;abstract&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;BACKGROUND &amp;amp; AIMS:&lt;/strong&gt;
+Affordable point-of-care (POC) tests for hepatitis C (HCV) viraemia are needed to improve access to treatment in low and middle income countries (LMICs). Our aims were to determine the target limit of detection (LOD) necessary to diagnose the majority of persons with HCV eligible for treatment, and identify characteristics associated with low-level viraemia (LLV) (defined as the lowest 3% of the distribution of HCV RNA) to understand those at risk of being mis-diagnosed.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;METHODS:&lt;/strong&gt;
+We established a multi-country cross-sectional dataset of first available quantitative HCV RNA linked to demographic and clinical data. We excluded individuals on HCV treatment. We analyzed the distribution of HCV RNA and determined critical thresholds for detection of HCV viraemia. We then performed logistic regression to evaluate factors associated with LLV, and derived relative sensitivities for significant covariates.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;RESULTS:&lt;/strong&gt;
+The dataset included 66,640 individuals with HCV viraemia from Georgia (44.4%), Canada (40.9%), India (8.1%), Cambodia (2.6%), Egypt (1.6%), Pakistan (1.3%), Cameroon (0.4%), Indonesia (0.2%), Thailand (0.2%), Vietnam (0.1%), Malaysia (0.05%), and Mozambique (0.02%). The 97% LOD was 1,318 IU/mL (95% CI 1298.4, 1322.3). Factors associated with LLV were younger age 18–30 vs. 51–64 years (OR 2.56 95% CI 2.19, 2.99), female vs. male sex (OR 1.32, 95% CI 1.18, 1.49), and advanced fibrosis stage F4 vs. F0–1 (OR 1.44, 95%CI 1.21, 1.69). Only the younger age group had a decreased relative sensitivity below 95% at 93.3%.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;CONCLUSIONS:&lt;/strong&gt;
+In this global dataset, a test with an LOD of 1,318 IU/mL would identify 97% of viraemic HCV infections among almost all populations. This LOD will help guide manufacturers in the development of affordable POC diagnostics to expand HCV testing and linkage to care in LMICs.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Keywords:&lt;/strong&gt; Hepatitis C Virus, diagnosis, point-of-care&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sociodemographic factors and social determinants associated with toxicology confirmed polysubstance opioid-related deaths</title>
+      <link>https://jianing-jenny-wang.github.io/publication/barocas-2019-daad/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://jianing-jenny-wang.github.io/publication/barocas-2019-daad/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;abstract&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Background and Aims:&lt;/strong&gt;
+While prescribed and illicit opioid use are primary drivers of the national surges in overdose deaths, opioid overdose deaths in which stimulants are also present are increasing in the U.S. We determined the social determinants and sociodemographic factors associated with opioid-only versus polysubstance opioid overdose deaths in Massachusetts. Particular attention was focused on the role of stimulants in opioid overdose deaths.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Methods:&lt;/strong&gt;
+We analyzed all opioid-related overdose deaths from 2014–2015 in an individually-linked population database in Massachusetts. We used linked postmortem toxicology data to identify drugs present at the time of death. We constructed a multinomial logistic regression model to identify factors associated with three mutually exclusive overdose death groups based on toxicological results: opioid-related deaths with (1) opioids only present, (2) opioids and other substances not including stimulants, and (3) opioids and stimulants with or without other substances.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Results:&lt;/strong&gt;
+Between 2014 and 2015, there were 2,244 opioid-related overdose deaths in Massachusetts that had accompanying toxicology results. Toxicology reports indicated that 17% had opioids only, 36% had opioids plus stimulants, and 46% had opioids plus another non-stimulant substance. Persons older than 24 years, non-rural residents, those with comorbid mental illness, non-Hispanic black residents, and persons with recent homelessness were more likely than their counterparts to die with opioids and stimulants than opioids alone.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Conclusions:&lt;/strong&gt;
+Polysubstance opioid overdose is increasingly common in the US. Addressing modifiable social determinants of health including barriers to mental health services and homelessness, is important to reduce polysubstance use and overdose deaths.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Keywords:&lt;/strong&gt; opioid-related overdose, polysubstance use, stimulants, cocaine, amphetamines&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Selection from multiple data sources in a capture-recapture study to estimate the prevalence of opioid use disorder in Massachusetts</title>
+      <link>https://jianing-jenny-wang.github.io/presentations/2019-ness/</link>
+      <pubDate>Wed, 15 May 2019 13:00:00 +0000</pubDate>
+      <guid>https://jianing-jenny-wang.github.io/presentations/2019-ness/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Current population estimates of opioid use disorder (OUD) can be derived from a capture-recapture study. However, there is little guidance regarding the appropriate number of databases and the dependence structures between them that is needed for accurate estimates using this method. We propose a process to create a parsimonious model from multiple data sources in a capture-recapture study to estimate the population of OUD in Massachusetts (MA).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An example preprint / working paper</title>
+      <link>https://jianing-jenny-wang.github.io/publication0/sample-preprint/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://jianing-jenny-wang.github.io/publication0/sample-preprint/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Display Jupyter Notebooks with Academic</title>
+      <link>https://jianing-jenny-wang.github.io/post/jupyter/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://jianing-jenny-wang.github.io/post/jupyter/</guid>
+      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;from&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;IPython.core.display&lt;/span&gt; &lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Image&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;Image&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./index_1_0.png&#34; alt=&#34;png&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;Welcome to Academic!&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;pre&gt;&lt;code&gt;Welcome to Academic!
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;install-python-and-jupyterlab&#34;&gt;Install Python and JupyterLab&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.anaconda.com/distribution/#download-section&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Install Anaconda&lt;/a&gt; which includes Python 3 and JupyterLab.&lt;/p&gt;
+&lt;p&gt;Alternatively, install JupyterLab with &lt;code&gt;pip3 install jupyterlab&lt;/code&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;create-or-upload-a-jupyter-notebook&#34;&gt;Create or upload a Jupyter notebook&lt;/h2&gt;
+&lt;p&gt;Run the following commands in your Terminal, substituting &lt;code&gt;&amp;lt;MY-WEBSITE-FOLDER&amp;gt;&lt;/code&gt; and &lt;code&gt;&amp;lt;SHORT-POST-TITLE&amp;gt;&lt;/code&gt; with the file path to your Academic website folder and a short title for your blog post (use hyphens instead of spaces), respectively:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;mkdir -p &amp;lt;MY-WEBSITE-FOLDER&amp;gt;/content/post/&amp;lt;SHORT-POST-TITLE&amp;gt;/
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;cd&lt;/span&gt; &amp;lt;MY-WEBSITE-FOLDER&amp;gt;/content/post/&amp;lt;SHORT-POST-TITLE&amp;gt;/
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;jupyter lab index.ipynb
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;The &lt;code&gt;jupyter&lt;/code&gt; command above will launch the JupyterLab editor, allowing us to add Academic metadata and write the content.&lt;/p&gt;
+&lt;h2 id=&#34;edit-your-post-metadata&#34;&gt;Edit your post metadata&lt;/h2&gt;
+&lt;p&gt;The first cell of your Jupter notebook will contain your post metadata (&lt;a href=&#34;https://sourcethemes.com/academic/docs/front-matter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;front matter&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;In Jupter, choose &lt;em&gt;Markdown&lt;/em&gt; as the type of the first cell and wrap your Academic metadata in three dashes, indicating that it is YAML front matter:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;---
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;title: My post&amp;#39;s title
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;date: 2019-09-01
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;# Put any other Academic metadata here...
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;---
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Edit the metadata of your post, using the &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;documentation&lt;/a&gt; as a guide to the available options.&lt;/p&gt;
+&lt;p&gt;To set a &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#featured-image&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;featured image&lt;/a&gt;, place an image named &lt;code&gt;featured&lt;/code&gt; into your post&amp;rsquo;s folder.&lt;/p&gt;
+&lt;p&gt;For other tips, such as using math, see the guide on &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;writing content with Academic&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;convert-notebook-to-markdown&#34;&gt;Convert notebook to Markdown&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;jupyter nbconvert index.ipynb --to markdown --NbConvertApp.output_files_dir&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;example&#34;&gt;Example&lt;/h2&gt;
+&lt;p&gt;This post was created with Jupyter. The orginal files can be found at &lt;a href=&#34;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>https://jianing-jenny-wang.github.io/slides/example/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://jianing-jenny-wang.github.io/slides/example/</guid>
+      <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://wowchemy.com/docs/content/slides/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
+&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
+&lt;li&gt;Supports speaker notes&lt;/li&gt;
+&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://revealjs.com/pdf-export/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Export&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Code block:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;porridge&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;blueberry&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;porridge&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;==&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;blueberry&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;Eating...&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
+&lt;p&gt;Block math:&lt;/p&gt;
+&lt;p&gt;$$
+f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+&lt;p&gt;Make content appear incrementally&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% fragment %}} One {{% /fragment %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% fragment %}} **Two** {{% /fragment %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% fragment %}} Three {{% /fragment %}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  One
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  &lt;strong&gt;Two&lt;/strong&gt;
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  Three
+&lt;/span&gt;
+&lt;hr&gt;
+&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% speaker_note %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Only the speaker can read these notes
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Press &lt;span class=&#34;sb&#34;&gt;`S`&lt;/span&gt; key to view
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  {{% /speaker_note %}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
+&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
+&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
+&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
+&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
+&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;/media/boards.jpg&#34;
+  &gt;
+
+&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+&lt;p&gt;Customize the slide style and background&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;background-image&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;/media/boards.jpg&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;background-color&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;#0000FF&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;class&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;my-style&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
+&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-css&#34; data-lang=&#34;css&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h2&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h3&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;k&#34;&gt;color&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;navy&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://discord.gg/z8wNYzb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/content/slides/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hepatitis C testing and patient characteristics in Washington State&#39;s prisons between 2012 and 2016</title>
+      <link>https://jianing-jenny-wang.github.io/publication/assoumou-2019-ajpm/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://jianing-jenny-wang.github.io/publication/assoumou-2019-ajpm/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;abstract&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Introduction:&lt;/strong&gt;
+There is no widely accepted testing approach for hepatitis C virus infection in correctional settings, and many U.S. prisons do not provide routine testing. The aim of this study was to determine the most effective hepatitis C virus testing strategy in one U.S. state prison and describe the population with reactive testing.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Methods:&lt;/strong&gt;
+A retrospective analysis was performed using individuals entering the Washington State prison system, which routinely offers hepatitis C virus testing, to compare routine opt-out to current recommendations for risk-based and one-time testing for individuals born between 1945 and 1965. Additionally, liver fibrosis stage was characterized using aspartate aminotransferase to platelet ratio index and Fibrosis-4. Analyses were conducted in 2017.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Results:&lt;/strong&gt;
+Between 2012 and 2016, a total of 24,567 (83%) individuals were tested for the hepatitis C virus antibody and 4,921 (20%) were reactive (test was positive). There were 2,403 (49%) that had hepatitis C virus RNA testing with 1,727 (72%) showing chronic infection. Reactive antibody was more prevalent in individuals born between 1945 and 1965 compared with other years (44% vs 17%); however, most cases (72%) were outside of this cohort. Up to 35% of positive reactive tests would be missed with testing targeted by birth cohort and risk behavior. Of chronically infected individuals, 23% had at least moderate liver fibrosis.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Conclusions:&lt;/strong&gt;
+Targeted testing in the Washington State prison system missed a substantial proportion of hepatitis C virus cases; of those with reactive testing, a sizeable proportion of people had at least moderate liver disease placing them at risk for complications. Routine testing at entry should be considered by U.S. state prisons.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Estimated prevalence of opioid use disorder in Massachusetts, 2011–2015: a capture–recapture analysis</title>
+      <link>https://jianing-jenny-wang.github.io/publication/barocas-2018-ajph/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://jianing-jenny-wang.github.io/publication/barocas-2018-ajph/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;abstract&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Objectives.&lt;/strong&gt; To estimate the annual prevalence of opioid use disorder (OUD) in Massachusetts from 2011 to 2015.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Methods.&lt;/strong&gt; We performed a multisample stratified capture–recapture analysis to estimate OUD prevalence in Massachusetts. Individuals identified from 6 administrative databases for 2011 to 2012 and 7 databases for 2013 to 2015 were linked at the individual level and included in the analysis. Individuals were stratified by age group, sex, and county of residence.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Results.&lt;/strong&gt; The OUD prevalence in Massachusetts among people aged 11 years or older was 2.72% in 2011 and 2.87% in 2012. Between 2013 and 2015, the prevalence increased from 3.87% to 4.60%. The greatest increase in prevalence was observed among those in the youngest age group (11–25 years), a 76% increase from 2011 to 2012 and a 42% increase from 2013 to 2015.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Conclusions.&lt;/strong&gt; In Massachusetts, the OUD prevalence was 4.6% among people 11 years or older in 2015. The number of individuals with OUD is likely increasing, particularly among young people.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Population-level outcomes and cost-effectiveness of expanding the recommendation for age-based hepatitis C testing in the United States</title>
+      <link>https://jianing-jenny-wang.github.io/publication/barocas-2018-cid/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://jianing-jenny-wang.github.io/publication/barocas-2018-cid/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;abstract&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Background&lt;/strong&gt;
+The US Centers for Disease Control and Prevention and the U.S. Preventive Services Task Force recommend one-time hepatitis C virus (HCV) testing for persons born 1945–1965 and targeted testing for high-risk persons. This strategy targets HCV testing to a prevalent population at high risk for HCV morbidity and mortality, but does not include younger populations with high incidence. To address this gap and improve access to HCV testing, age-based strategies should be considered.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Methods&lt;/strong&gt;
+We used a simulation of HCV to estimate the effectiveness and cost-effectiveness of HCV testing strategies: 1) standard of care (SOC) – recommendation for one-time testing for all persons born 1945–1965, 2) recommendation for one-time testing for adults ≥40 years (≥40 strategy), 3) ≥30 years (≥30 strategy), and 4) ≥18 years (≥18 strategy). All strategies assumed targeted testing of high-risk persons. Inputs were derived from national databases, observational cohorts and clinical trials. Outcomes included quality-adjusted life expectancy, costs, and cost-effectiveness.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Results&lt;/strong&gt;
+Expanded age-based testing strategies increased US population lifetime case identification and cure rates. Greatest increases were observed in the ≥18 strategy. Compared to the SOC, this strategy resulted in an estimated 256,000 additional infected persons identified and 280,000 additional cures at the lowest cost per QALY gained (ICER = $28,000/QALY).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Conclusions&lt;/strong&gt;
+In addition to risk-based testing, one-time HCV testing of persons 18 and older appears to be cost-effective, leads to improved clinical outcomes and identifies more persons with HCV than the current birth cohort recommendations. These findings could be considered for future recommendation revisions.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Keywords:&lt;/strong&gt; hepatitis C virus, testing, cost-effectiveness
+&lt;strong&gt;Topic:&lt;/strong&gt; cost effectivenesshepatitis cadulthepatitis c virus&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The burden of untreated HCV infection in hospitalized inmates: a hospital utilization and cost analysis</title>
+      <link>https://jianing-jenny-wang.github.io/publication/wurcel-2018-juh/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://jianing-jenny-wang.github.io/publication/wurcel-2018-juh/</guid>
+      <description>&lt;!-- 
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;abstract&lt;/h2&gt;
+&lt;p&gt;Hepatitis C virus (HCV) is highly prevalent in incarcerated populations. The high cost of HCV therapy places a major burden on correctional system healthcare budgets, but the burden of untreated HCV is not known. We investigated the economic impact of HCV through comparison of length of stay (LOS), frequency of 30-day readmission, and costs of hospitalizations in inmates with and without HCV using a 2004–2014 administrative claims database. Inmates with HCV had longer LOS, higher frequency of 30-day readmission, and increased cost of hospitalizations. Costs were higher in inmates with HCV even without advanced liver disease and in inmates with HIV/HCV compared to HCV alone. We conclude that although HCV treatment may not avert all of the observed increases in hospitalization, modest reductions in hospital utilization with HCV cure could help offset treatment costs. Policy discussions on HCV treatment in corrections should be informed by the costs of untreated HCV infection.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Keywords:&lt;/strong&gt; Inmate, Hepatitis C, Readmission, HIV, Hospitalization, Cost&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fundings &amp; Awards</title>
+      <link>https://jianing-jenny-wang.github.io/awards/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>https://jianing-jenny-wang.github.io/awards/</guid>
+      <description>&lt;h2 id=&#34;fundings&#34;&gt;Fundings&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Student fellow award funding supported by Boston University Rafik B. Hariri Institute for Computing and Computational Science
+(2021 - Presen)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;honors--awards&#34;&gt;Honors &amp;amp; Awards&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Student Travel Award recognized by the International Conference of Health Policy Statistics (2022)&lt;/li&gt;
+&lt;li&gt;Trainee Scholarship awarded by Society for Medical Decision Making Annual Meeting (2022)&lt;/li&gt;
+&lt;li&gt;Scholar Award recognized by the American Public Health Association (2021)&lt;/li&gt;
+&lt;li&gt;Academic Enhancement Award recognized by Boston University Rafik B. Hariri Institute for Computing and Computational Science &amp;amp; Engineering (2021)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Professional Services</title>
+      <link>https://jianing-jenny-wang.github.io/professional-services/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>https://jianing-jenny-wang.github.io/professional-services/</guid>
+      <description>&lt;h2 id=&#34;journal-referees&#34;&gt;Journal Referees&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Open Forum Infectious Diseases&lt;/li&gt;
+&lt;li&gt;Journal of Substance Abuse Treatment, Prevention, and Policy&lt;/li&gt;
+&lt;li&gt;Journal of Archives of Suicide Research&lt;/li&gt;
+&lt;li&gt;The American Journal of Applied Scientific Research&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;conference-referees&#34;&gt;Conference Referees&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Society for Medical Decision Making (SMDM) Annual Meeting&lt;/li&gt;
+&lt;li&gt;American Public Health Association (APHA) Annual Meeting &amp;amp; Expo&lt;/li&gt;
+&lt;li&gt;Models of Infectious Disease Agent Study (MIDAS) Network Annual Meeting&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;others&#34;&gt;Others&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Contributed Session Chair at 2023 International Conference on Health Policy Statistics&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://jianing-jenny-wang.github.io/teaching/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>https://jianing-jenny-wang.github.io/teaching/</guid>
+      <description>&lt;!-- ## Teaching --&gt;
+&lt;ul&gt;
+&lt;li&gt;Graduate Teaching Assistant for Data Science and Statistical Modeling in R (2022)&lt;/li&gt;
+&lt;li&gt;Guest lecture for Survival Analysis (2022)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- ## Project Mentoring
+
+- Ryan O&#39;Dea, MSc, Data Analyst, Boston Medical Center (2022 - Present)
+- Weitz Michelle, MSc, Data Analyst, Boston Medical Center (2021)
+- Juliet Flam-Ross, BSc, Junior Research Associate, Boston Medical Center (2021)
+
+## Project Advising
+- An Assessment of a Changing Methamphetamine Drug Supply on Hospitalizations and Death in
+the U.S. (2022-Present)
+
+  - PI: Susan Calcaterra, MD --&gt;</description>
+    </item>
+    
+    <item>
+      <title>Hepatitis C testing increased among baby boomers following the 2012 change to CDC testing recommendations</title>
+      <link>https://jianing-jenny-wang.github.io/publication/barocas-2017-ha/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://jianing-jenny-wang.github.io/publication/barocas-2017-ha/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;abstract&lt;/h2&gt;
+&lt;p&gt;In 2012 the Centers for Disease Control and Prevention recommended routine testing for hepatitis C for people born in the period 1945–65. Until now, the recommendation’s impact on hepatitis C screening rates in the United States has not been fully understood. We used an interrupted time series with comparison group design to analyze hepatitis C screening rates in the period 2010–14 among 2.8 million commercially insured adults in the MarketScan database. Hepatitis C screening rates increased yearly between 2010 and 2014, from 1.65 to 2.59 per 100 person-years. A 49 percent increase in screening rates among people born during 1945–65 followed the release of the recommendation, but no such increase was observed among adults born after 1965. The effect among the target population was sustained, and by twenty-four months after the recommendation’s release, screening rates had increased 106 percent. We conclude that the hepatitis C testing policy change resulted in significantly increased testing among the target population and may have decreased the magnitude of the hepatitis C epidemic.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Keywords:&lt;/strong&gt; endocarditis, opioid use disorder, opioid epidemic, medications, hospitalization&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Example Project</title>
+      <link>https://jianing-jenny-wang.github.io/project/example/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://jianing-jenny-wang.github.io/project/example/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>External Project</title>
+      <link>https://jianing-jenny-wang.github.io/project/external-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://jianing-jenny-wang.github.io/project/external-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An example journal article</title>
+      <link>https://jianing-jenny-wang.github.io/publication0/sample-journal-article/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://jianing-jenny-wang.github.io/publication0/sample-journal-article/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An example conference paper</title>
+      <link>https://jianing-jenny-wang.github.io/publication0/sample-conference-paper/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://jianing-jenny-wang.github.io/publication0/sample-conference-paper/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jianing-jenny-wang.github.io/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jianing-jenny-wang.github.io/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jianing-jenny-wang.github.io/research0/spatial/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jianing-jenny-wang.github.io/research0/spatial/</guid>
+      <description>&lt;hr&gt;
+&lt;p&gt;title: A Spatial Capture-Recapture Approach for Estimating Opioid Use Disorder Prevalence in Small Areas Using Administrative Data&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>

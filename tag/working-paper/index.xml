@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Working Paper | Jianing Wang</title>
+    <link>https://jianing-jenny-wang.github.io/tag/working-paper/</link>
+      <atom:link href="https://jianing-jenny-wang.github.io/tag/working-paper/index.xml" rel="self" type="application/rss+xml" />
+    <description>Working Paper</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 02 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jianing-jenny-wang.github.io/media/icon_hu61a5cda683b16e16ad250d48d66bc7bc_4894_512x512_fill_lanczos_center_3.png</url>
+      <title>Working Paper</title>
+      <link>https://jianing-jenny-wang.github.io/tag/working-paper/</link>
+    </image>
+    
+    <item>
+      <title>A spatial capture-recapture approach for estimating opioid use disorder prevalence in small areas using administrative data</title>
+      <link>https://jianing-jenny-wang.github.io/publication/wang-working-biostatistics/</link>
+      <pubDate>Mon, 02 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://jianing-jenny-wang.github.io/publication/wang-working-biostatistics/</guid>
+      <description>&lt;div align=&#34;center&#34;&gt;&lt;b&gt;&lt;i&gt; Working Paper &lt;/div&gt;
+&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+&lt;!-- ## abstract --&gt;
+&lt;!-- Respondent-driven sampling (RDS) is widely used for collecting data on hard-to-reach populations, including information about the structure of the networks connecting the individuals. Characterizing network features can be important for designing and evaluating health programs, particularly those that involve infectious disease transmission. While the validity of population proportions estimated from RDS-based datasets has been well studied, little is known about potential biases in inference about network structure from RDS. We developed a mathematical and statistical platform to simulate network structures with exponential random graph models, and to mimic the data generation mechanisms produced by RDS. We used this framework to characterize biases in three important network statistics – density/mean degree, homophily, and transitivity. Generalized linear models were used to predict the network statistics of the original network from the network statistics of the sample network and observable sample design features. We found that RDS may introduce significant biases in the estimation of density/mean degree and transitivity, and may exaggerate homophily when preferential recruitment occurs. Adjustments to network-generating statistics derived from the prediction models could substantially improve validity of simulated networks in terms of density, and could reduce bias in replicating mean degree, homophily, and transitivity from the original network. --&gt;</description>
+    </item>
+    
+    <item>
+      <title>Massachusetts prevalence of Opioid Use Disorder estimation revisited: Comparing a Bayesian approach to standard capture-recapture methods</title>
+      <link>https://jianing-jenny-wang.github.io/publication/wang-working-aje/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://jianing-jenny-wang.github.io/publication/wang-working-aje/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+&lt;div align=&#34;center&#34;&gt;&lt;b&gt;&lt;i&gt; Working Paper &lt;/div&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;abstract&lt;/h2&gt;
+&lt;p&gt;Accurate estimation of the prevalence of people with opioid use disorder (OUD) is critical to the success of treatment and resource planning. Various indirect estimation approaches have been used but are subject to issues related to data availability and infrastructure. We used 2015 data from the Massachusetts Public Health Data Warehouse (PHD) to compare the results of two approaches to estimating OUD prevalence in the Massachusetts population. First, we used a seven-data set capture-recapture analysis under log-linear model parameterization, controlling for the source dependence and effects of age, sex, and county through stratification. Second, we applied a benchmark-multiplier method in a Bayesian framework by linking healthcare claims data to death certificate data assuming an extrapolation of death rates from observed untreated OUD to unobserved OUD. The estimates for OUD among MA residents were compared using the results from each approach and were 4.62% (95% CI: 4.59%, 4.64%) in the capture-recapture and 4.29% (95% CrI: 3.49%, 5.32%) in the Bayesian model. The comparison suggests that concurrent use of multiple methods improves the justification and facilitates the triangulation and interpretation of the resulting estimates.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Keywords:&lt;/strong&gt; Opioid use disorder prevalence estimation, capture-recapture analysis, Bayesian benchmark-multiplier method, surveillance data integration&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Trial registration:&lt;/strong&gt; ClinicalTrials.gov Identifier: NCT04111939&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Modeling recurrent relapse and remitting episodes during MOUD treatment: a tutorial</title>
+      <link>https://jianing-jenny-wang.github.io/publication/wang-working-mdm/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://jianing-jenny-wang.github.io/publication/wang-working-mdm/</guid>
+      <description>&lt;div align=&#34;center&#34;&gt;&lt;b&gt;&lt;i&gt; Working Paper &lt;/div&gt;
+&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;abstract&lt;/h2&gt;
+&lt;p&gt;In longitudinal studies participants can often experience the outcome(s) of interest multiple times during the observation period, creating recurrent event data. Depending on the primary research objective, advanced statistical methods are required to correctly analyze this special type of data. This tutorial discusses four general frameworks, appropriate for analyzing recurrent events data; 1) extended Cox, 2) Parametric Survival, 3) Longitudinal, and 4) Multistate models. We present in detail the implementation of these methods, including description of the required dataset structure, R code, and interpretation of results, using data from the CTN-0051 study, a randomized clinical trial comparing the effectiveness of Opioid Use Disorder (OUD) treatments. Objectives of three use case scenarios exemplify usage and relevance of the methods for the analysis of recurrent events; 1) estimate adjusted effects, 2) make individual-level predictions, and 3) model a complicated process involving multidirectional transitions between disease states. We compare the methods, comment on their strengths and limitations and make recommendations on the preferred method depending on the primary research objective.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>On the estimation of population size – A comparison of capture-recapture and multiplier-benchmark methods</title>
+      <link>https://jianing-jenny-wang.github.io/publication/wang-working-statmed/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://jianing-jenny-wang.github.io/publication/wang-working-statmed/</guid>
+      <description>&lt;div align=&#34;center&#34;&gt;&lt;b&gt;&lt;i&gt; Working Paper &lt;/div&gt;
+&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+&lt;!-- ## abstract --&gt;
+&lt;!-- Respondent-driven sampling (RDS) is widely used for collecting data on hard-to-reach populations, including information about the structure of the networks connecting the individuals. Characterizing network features can be important for designing and evaluating health programs, particularly those that involve infectious disease transmission. While the validity of population proportions estimated from RDS-based datasets has been well studied, little is known about potential biases in inference about network structure from RDS. We developed a mathematical and statistical platform to simulate network structures with exponential random graph models, and to mimic the data generation mechanisms produced by RDS. We used this framework to characterize biases in three important network statistics – density/mean degree, homophily, and transitivity. Generalized linear models were used to predict the network statistics of the original network from the network statistics of the sample network and observable sample design features. We found that RDS may introduce significant biases in the estimation of density/mean degree and transitivity, and may exaggerate homophily when preferential recruitment occurs. Adjustments to network-generating statistics derived from the prediction models could substantially improve validity of simulated networks in terms of density, and could reduce bias in replicating mean degree, homophily, and transitivity from the original network. --&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Presentations &amp; Talks | Jianing Wang</title>
+    <link>https://jianing-jenny-wang.github.io/presentations/</link>
+      <atom:link href="https://jianing-jenny-wang.github.io/presentations/index.xml" rel="self" type="application/rss+xml" />
+    <description>Presentations &amp; Talks</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 06 Nov 2022 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jianing-jenny-wang.github.io/media/icon_hu61a5cda683b16e16ad250d48d66bc7bc_4894_512x512_fill_lanczos_center_3.png</url>
+      <title>Presentations &amp; Talks</title>
+      <link>https://jianing-jenny-wang.github.io/presentations/</link>
+    </image>
+    
+    <item>
+      <title>Race and Gender Differences in Opioid Use Disorder in Massachusetts from 2014 through 2019, a Capture-Recapture Analysis</title>
+      <link>https://jianing-jenny-wang.github.io/presentations/2022-apha/</link>
+      <pubDate>Sun, 06 Nov 2022 13:00:00 +0000</pubDate>
+      <guid>https://jianing-jenny-wang.github.io/presentations/2022-apha/</guid>
+      <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Background:&lt;/strong&gt; The opioid overdose epidemic has disproportionately impacted different groups. While overdoses continue to increase, accurate estimates of the prevalence of opioid use disorder (OUD) are needed to understand the size of the population at risk for overdose.  Though overdoses are more common in males, the sex breakdown in OUD prevalence is unknown.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Objectives:&lt;/strong&gt; To estimate the prevalence of OUD in Massachusetts from 2014 to 2018, stratified by sex.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Methods:&lt;/strong&gt; We performed a capture-recapture analysis in Massachusetts from 2014-2018 among persons aged 18-64 years. We stratified our analysis by sex and used seven statewide datasets that were individually linked within the state’s Public Health Data Warehouse. We developed log linear models to estimate people previously unknown to have OUD. We estimated counts and prevalence of OUD among the adult population by sex.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Results:&lt;/strong&gt; The estimated OUD prevalence increased from 4.74% (95% CI = 4.73%, 4.76%) in 2014 to 6.68% (95% CI = 6.66%, 6.70%) in 2018. Over that time, the proportion of the total prevalence attributable to females was 37% in 2014, 46% in 2015, 38% in 2016, 35% in 2017, and 44% in 2018. The proportion of estimated OUD cases known by the system remained stable (between 33%-43%), as well as the ratio of the proportion of females who were known to the unknown.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Conclusion:&lt;/strong&gt; Overall prevalence estimates are significantly higher than those from NSDUH. Females account for nearly half of OUD prevalence in Massachusetts with no increase in the number who were previously unknown to the healthcare system.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>On the estimation of population size – A comparison of capture-recapture and multiplier-benchmark methods</title>
+      <link>https://jianing-jenny-wang.github.io/presentations/2022-jsm/</link>
+      <pubDate>Sun, 07 Aug 2022 13:00:00 +0000</pubDate>
+      <guid>https://jianing-jenny-wang.github.io/presentations/2022-jsm/</guid>
+      <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract:&lt;/h2&gt;
+&lt;p&gt;Approaches to population size estimation of hidden populations are of importance across a wide spectrum of disciplines, especially when census and simple random sampling are impractical. The capture-recapture (CRC) method and the multiplier-benchmark method (MBM) are two commonly used approaches using data that partially capture the target population and overlap in a known way. Due to similarities in required data structures, the approaches are often used interchangeably without critical appraisal of the underlying assumptions, especially in the two-sample case. We describe the sampling mechanisms and assumptions underlying both approaches to highlight similarities and differences. We emphasize that the CRC method uses data sources as random samples and describes two-way inclusion patterns. In contrast, in MBM, one source collects a sub-population that is seen as fixed, and the one-way inclusion pattern is modeled. We also discuss the implications of these differences through simulation and real data to guide the choice of method in practice. Careful study of data structure, relationship, and possible generation process are crucial to assess the appropriateness of using these methods.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Keywords:&lt;/strong&gt; Population size estimation, capture-recapture, benchmark-multiplier&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Empirical Calibration of a Simulation Model of Opioid Use Disorder</title>
+      <link>https://jianing-jenny-wang.github.io/presentations/2022-ness/</link>
+      <pubDate>Sat, 26 Mar 2022 13:00:00 +0000</pubDate>
+      <guid>https://jianing-jenny-wang.github.io/presentations/2022-ness/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. --&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Simulation models of opioid use disorder (OUD) aim at evaluating the impact of different treatment strategies on population-level outcomes. Researching Effective Strategies to Prevent Opioid Death (RESPOND) is a dynamic population state-transition model that simulates Massachusetts (MA) OUD population synthesizing data from the MA Public Health Data Warehouse, published survey studies, and randomized trials. We implement an empirical calibration approach to fit RESPOND to multiple calibration targets, including yearly counts of fatal overdoses and detox admissions in 2013-2015, and 2015 OUD population counts in MA. We used capture-recapture analysis to estimate the OUD population and to quantify uncertainty around calibration targets. The empirical calibration approach involves Latin hypercube sampling for a parameter search of the multidimensional space, comprising demographics of “arrivals”, overdose rates, treatment transition rates, and substance use transition probabilities. The algorithm accepts proposed parameter values when the respective model outputs are “close” to the observed calibration targets based on uncertainty ranges of targets. Calibration provided an excellent fit to the model calibration targets. The flexibility of the algorithm also allowed us to identify certain &amp;ldquo;questionable&amp;rdquo; parts of the model structure and explore the underlying relationships between the model parameters in an efficient manner. The calibrated model also provided a good fit to validation targets: non-overdose related deaths, percentage of active OUDs, and all types of overdose counts (fatal and non-fatal). In addition, the resulting set of values for the calibrated parameters will inform the priors of a more comprehensive Bayesian calibration. The calibrated RESPOND model will be employed to improve shared decision-making for OUD.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Massachusetts prevalence of opioid use disorder estimation revisited: Comparing a bayesian approach to standard capture-recapture methods</title>
+      <link>https://jianing-jenny-wang.github.io/presentations/2021-apha/</link>
+      <pubDate>Tue, 26 Oct 2021 13:00:00 +0000</pubDate>
+      <guid>https://jianing-jenny-wang.github.io/presentations/2021-apha/</guid>
+      <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Accurate estimates of opioid use disorder (OUD) are important for resource allocation and system planning. Indirect estimation methods may provide more accurate estimates than surveys. Using 2015 data from the Massachusetts Public Health Data Warehouse (PHD), we performed a comparative analysis of two indirect estimation methods to estimate OUD prevalence among the Massachusetts Medicaid population. We first used a seven data set capture/re-capture (CRC), stratified by age, sex, and county to account for the individual heterogeneity. We used log-linear models to estimate the unknown OUD population and estimated confidence intervals (CI) using distributional bootstrapping. We applied a Bayesian prevalence estimation model by linking Medicaid claims data to opioid-related death data with the assistance of OUD treatment data. In doing so, we were able to calculate opioid-related death rates for the known OUD population while off-treatment. We assumed that unknown persons with OUD had overdose death rates equal to the known population while off-treatment, following a Poisson distribution. We added random effects to counties and generated 95% credible intervals (CrI) from posteriors. The prevalence of OUD was 9.43% (95% CrI: 7.49%, 12.00%) in the Bayesian model and 8.60% (95% CI: 8.57%, 8.65%) in the CRC. Estimates in small counties were more different than large counties. Estimates were more similar among middle-aged groups than older or younger age groups. From this analysis, we found that the CRC, with more data available, provided a similar state-level estimates to the Bayesian method; but the group-specific estimates of unobserved OUD differed.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Selection from multiple data sources in a capture-recapture study to estimate the prevalence of opioid use disorder in Massachusetts</title>
+      <link>https://jianing-jenny-wang.github.io/presentations/2019-ness/</link>
+      <pubDate>Wed, 15 May 2019 13:00:00 +0000</pubDate>
+      <guid>https://jianing-jenny-wang.github.io/presentations/2019-ness/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Current population estimates of opioid use disorder (OUD) can be derived from a capture-recapture study. However, there is little guidance regarding the appropriate number of databases and the dependence structures between them that is needed for accurate estimates using this method. We propose a process to create a parsimonious model from multiple data sources in a capture-recapture study to estimate the population of OUD in Massachusetts (MA).&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

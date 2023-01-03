@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 | Jianing Wang</title>
+    <link>https://jianing-jenny-wang.github.io/publication-type/3/</link>
+      <atom:link href="https://jianing-jenny-wang.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
+    <description>3</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jianing-jenny-wang.github.io/media/icon_hu61a5cda683b16e16ad250d48d66bc7bc_4894_512x512_fill_lanczos_center_3.png</url>
+      <title>3</title>
+      <link>https://jianing-jenny-wang.github.io/publication-type/3/</link>
+    </image>
+    
+    <item>
+      <title>Empirical Calibration of a Simulation Model of Opioid Use Disorder</title>
+      <link>https://jianing-jenny-wang.github.io/publication/madu-2022-preprint/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://jianing-jenny-wang.github.io/publication/madu-2022-preprint/</guid>
+      <description>&lt;h2 id=&#34;abstract&#34;&gt;abstract&lt;/h2&gt;
+&lt;p&gt;Simulation models of opioid use disorder (OUD) aim at evaluating the impact of different treatment
+strategies on population-level outcomes. Researching Effective Strategies to Prevent Opioid Death
+(RESPOND) is a dynamic population state-transition model that simulates Massachusetts (MA)
+OUD population synthesizing data from the MA Public Health Data Warehouse, published survey
+studies, and randomized trials. We implement an empirical calibration approach to fit RESPOND to
+multiple calibration targets, including yearly counts of fatal overdoses and detox admissions in
+2013-2015, and 2015 OUD population counts in MA. We used capture-recapture analysis to
+estimate the OUD population and to quantify uncertainty around calibration targets.
+1 The empirical
+calibration approach involves Latin hypercube sampling for a parameter search of the
+multidimensional space, comprising demographics of “arrivals”, overdose rates, treatment
+transition rates, and substance use transition probabilities. The algorithm accepts proposed
+parameter values when the respective model outputs are “close” to the observed calibration
+targets based on uncertainty ranges of targets. Calibration provided an excellent fit to the model
+calibration targets. The flexibility of the algorithm also allowed us to identify certain &amp;ldquo;questionable&amp;rdquo;
+parts of the model structure and explore the underlying relationships between the model
+parameters in an efficient manner. The calibrated model also provided a good fit to validation
+targets: non-overdose related deaths, percentage of active OUDs, and all types of overdose counts
+(fatal and non-fatal). In addition, the resulting set of values for the calibrated parameters will
+inform the priors of a more comprehensive Bayesian calibration. The calibrated RESPOND model
+will be employed to improve shared decision-making for OUD.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An example preprint / working paper</title>
+      <link>https://jianing-jenny-wang.github.io/publication0/sample-preprint/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://jianing-jenny-wang.github.io/publication0/sample-preprint/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
