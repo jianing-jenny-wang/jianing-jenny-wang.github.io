@@ -42,38 +42,6 @@ Supplementary notes can be added here, including [code, math, and images](https:
     </item>
     
     <item>
-      <title>Massachusetts prevalence of Opioid Use Disorder estimation revisited: Comparing a Bayesian approach to standard capture-recapture methods</title>
-      <link>https://jianing-jenny-wang.github.io/publication/wang-working-aje/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://jianing-jenny-wang.github.io/publication/wang-working-aje/</guid>
-      <description>&lt;!-- 
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
-&lt;div align=&#34;center&#34;&gt;&lt;b&gt;&lt;i&gt; Working Paper &lt;/div&gt;
-&lt;h2 id=&#34;abstract&#34;&gt;abstract&lt;/h2&gt;
-&lt;p&gt;Accurate estimation of the prevalence of people with opioid use disorder (OUD) is critical to the success of treatment and resource planning. Various indirect estimation approaches have been used but are subject to issues related to data availability and infrastructure. We used 2015 data from the Massachusetts Public Health Data Warehouse (PHD) to compare the results of two approaches to estimating OUD prevalence in the Massachusetts population. First, we used a seven-data set capture-recapture analysis under log-linear model parameterization, controlling for the source dependence and effects of age, sex, and county through stratification. Second, we applied a benchmark-multiplier method in a Bayesian framework by linking healthcare claims data to death certificate data assuming an extrapolation of death rates from observed untreated OUD to unobserved OUD. The estimates for OUD among MA residents were compared using the results from each approach and were 4.62% (95% CI: 4.59%, 4.64%) in the capture-recapture and 4.29% (95% CrI: 3.49%, 5.32%) in the Bayesian model. The comparison suggests that concurrent use of multiple methods improves the justification and facilitates the triangulation and interpretation of the resulting estimates.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Keywords:&lt;/strong&gt; Opioid use disorder prevalence estimation, capture-recapture analysis, Bayesian benchmark-multiplier method, surveillance data integration&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Trial registration:&lt;/strong&gt; ClinicalTrials.gov Identifier: NCT04111939&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Modeling recurrent relapse and remitting episodes during MOUD treatment: a tutorial</title>
       <link>https://jianing-jenny-wang.github.io/publication/wang-working-mdm/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
