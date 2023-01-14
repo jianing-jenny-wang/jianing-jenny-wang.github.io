@@ -5,7 +5,7 @@
     <link>https://jianing-jenny-wang.github.io/interests/capture-recapture/</link>
       <atom:link href="https://jianing-jenny-wang.github.io/interests/capture-recapture/index.xml" rel="self" type="application/rss+xml" />
     <description>Capture-Recapture</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 30 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 02 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jianing-jenny-wang.github.io/media/icon_hu61a5cda683b16e16ad250d48d66bc7bc_4894_512x512_fill_lanczos_center_3.png</url>
       <title>Capture-Recapture</title>
@@ -13,11 +13,137 @@
     </image>
     
     <item>
+      <title>A spatial capture-recapture approach for estimating opioid use disorder prevalence in small areas using administrative data</title>
+      <link>https://jianing-jenny-wang.github.io/publication/wang-working-biostatistics/</link>
+      <pubDate>Mon, 02 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://jianing-jenny-wang.github.io/publication/wang-working-biostatistics/</guid>
+      <description>&lt;div align=&#34;center&#34;&gt;&lt;b&gt;&lt;i&gt; Working Paper &lt;/div&gt;
+&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+&lt;!-- ## abstract --&gt;
+&lt;!-- Respondent-driven sampling (RDS) is widely used for collecting data on hard-to-reach populations, including information about the structure of the networks connecting the individuals. Characterizing network features can be important for designing and evaluating health programs, particularly those that involve infectious disease transmission. While the validity of population proportions estimated from RDS-based datasets has been well studied, little is known about potential biases in inference about network structure from RDS. We developed a mathematical and statistical platform to simulate network structures with exponential random graph models, and to mimic the data generation mechanisms produced by RDS. We used this framework to characterize biases in three important network statistics – density/mean degree, homophily, and transitivity. Generalized linear models were used to predict the network statistics of the original network from the network statistics of the sample network and observable sample design features. We found that RDS may introduce significant biases in the estimation of density/mean degree and transitivity, and may exaggerate homophily when preferential recruitment occurs. Adjustments to network-generating statistics derived from the prediction models could substantially improve validity of simulated networks in terms of density, and could reduce bias in replicating mean degree, homophily, and transitivity from the original network. --&gt;</description>
+    </item>
+    
+    <item>
+      <title>Massachusetts prevalence of Opioid Use Disorder estimation revisited: Comparing a Bayesian approach to standard capture-recapture methods</title>
+      <link>https://jianing-jenny-wang.github.io/publication/wang-working-aje/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://jianing-jenny-wang.github.io/publication/wang-working-aje/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+&lt;div align=&#34;center&#34;&gt;&lt;b&gt;&lt;i&gt; Working Paper &lt;/div&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;abstract&lt;/h2&gt;
+&lt;p&gt;Accurate estimation of the prevalence of people with opioid use disorder (OUD) is critical to the success of treatment and resource planning. Various indirect estimation approaches have been used but are subject to issues related to data availability and infrastructure. We used 2015 data from the Massachusetts Public Health Data Warehouse (PHD) to compare the results of two approaches to estimating OUD prevalence in the Massachusetts population. First, we used a seven-data set capture-recapture analysis under log-linear model parameterization, controlling for the source dependence and effects of age, sex, and county through stratification. Second, we applied a benchmark-multiplier method in a Bayesian framework by linking healthcare claims data to death certificate data assuming an extrapolation of death rates from observed untreated OUD to unobserved OUD. The estimates for OUD among MA residents were compared using the results from each approach and were 4.62% (95% CI: 4.59%, 4.64%) in the capture-recapture and 4.29% (95% CrI: 3.49%, 5.32%) in the Bayesian model. The comparison suggests that concurrent use of multiple methods improves the justification and facilitates the triangulation and interpretation of the resulting estimates.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Keywords:&lt;/strong&gt; Opioid use disorder prevalence estimation, capture-recapture analysis, Bayesian benchmark-multiplier method, surveillance data integration&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Trial registration:&lt;/strong&gt; ClinicalTrials.gov Identifier: NCT04111939&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>On the estimation of population size – A comparison of capture-recapture and multiplier-benchmark methods</title>
+      <link>https://jianing-jenny-wang.github.io/publication/wang-working-statmed/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://jianing-jenny-wang.github.io/publication/wang-working-statmed/</guid>
+      <description>&lt;div align=&#34;center&#34;&gt;&lt;b&gt;&lt;i&gt; Working Paper &lt;/div&gt;
+&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+&lt;!-- ## abstract --&gt;
+&lt;!-- Respondent-driven sampling (RDS) is widely used for collecting data on hard-to-reach populations, including information about the structure of the networks connecting the individuals. Characterizing network features can be important for designing and evaluating health programs, particularly those that involve infectious disease transmission. While the validity of population proportions estimated from RDS-based datasets has been well studied, little is known about potential biases in inference about network structure from RDS. We developed a mathematical and statistical platform to simulate network structures with exponential random graph models, and to mimic the data generation mechanisms produced by RDS. We used this framework to characterize biases in three important network statistics – density/mean degree, homophily, and transitivity. Generalized linear models were used to predict the network statistics of the original network from the network statistics of the sample network and observable sample design features. We found that RDS may introduce significant biases in the estimation of density/mean degree and transitivity, and may exaggerate homophily when preferential recruitment occurs. Adjustments to network-generating statistics derived from the prediction models could substantially improve validity of simulated networks in terms of density, and could reduce bias in replicating mean degree, homophily, and transitivity from the original network. --&gt;</description>
+    </item>
+    
+    <item>
+      <title>The prevalence of opioid use disorder in Kentucky’s counties: A two-year multi-sample capture-recapture analysis</title>
+      <link>https://jianing-jenny-wang.github.io/publication/thompson-2023-daad/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://jianing-jenny-wang.github.io/publication/thompson-2023-daad/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;abstract&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Background&lt;/strong&gt;
+Kentucky has one of the highest opioid overdose mortality rates in the United States. Accurate estimates of people with opioid use disorder (OUD) are critical to plan for the scope of interventions required to reduce overdose and opioid misuse. Commonly used household surveys are known to underestimate OUD at the state-level and do not provide county-level estimates.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Methods&lt;/strong&gt;
+We performed a multi-sample capture-recapture analysis to estimate OUD prevalence in Kentucky in 2018 and 2019. We utilized four statewide datasets that were linked at the individual level: 1) Registry of Vital Statistics, 2) Emergency Medical Services (EMS), 3) Kentucky’s Prescription Drug Monitoring Program (PDMP), and 4) Kentucky Medicaid. We included persons aged 18–64 years who resided in Kentucky between 2018 and 2019. We identified individuals with administrative data consistent with OUD in each of the datasets, including a fatal opioid-involved overdose (Vital Statistics), EMS runs for suspected opioid overdose, receipt of buprenorphine for OUD treatment (PDMP), or Medicaid claims for OUD. Observed and estimated counts of OUD cases and prevalence of OUD among the adult population in Kentucky.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Results&lt;/strong&gt;
+The estimated statewide OUD prevalence was 5.5 % and 5.9 % for 2018 and 2019, respectively, ranging from 1.3 % to 17.7 % across Kentucky counties. As expected, counties with the highest OUD rates were Appalachian counties (eastern area) of the state.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Conclusions&lt;/strong&gt;
+Our analysis reveals a substantially larger proportion of KY residents have OUD than previously estimated. Our approach offers a model for states needing county-level estimates of OUD.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>A Spatial Capture-Recapture Approach for Estimating Opioid Use Disorder Prevalence in Small Areas Using Administrative Data</title>
       <link>https://jianing-jenny-wang.github.io/research/spatial-capture-recapture/</link>
       <pubDate>Fri, 30 Sep 2022 00:00:00 +0000</pubDate>
       <guid>https://jianing-jenny-wang.github.io/research/spatial-capture-recapture/</guid>
-      <description>&lt;p&gt;We propose a two-stage Bayesian hierarchical model with spatial smoothing using a CRC data structure to estimate community-specific opioid use disorder (OUD) prevalence. We explicitly model the hidden prevalence of interest and the associated detection model that describes individual detection histories across data sources. This structure can also incorporate additional characteristics of communities that could be important in understanding patterns in the OUD epidemic, enabling local jurisdictions to identify spatial clusters and areas with high OUD risk for higher precision of intervention deployment.&lt;/p&gt;
+      <description>&lt;p&gt;We propose a two-stage Bayesian hierarchical model with spatial smoothing using a capture-recapture data structure to estimate community-specific opioid use disorder (OUD) prevalence. We explicitly model the hidden prevalence of interest and the associated detection model that describes individual detection histories across data sources. This structure can also incorporate additional characteristics of communities that could be important in understanding patterns in the OUD epidemic, enabling local jurisdictions to identify spatial clusters and areas with high OUD risk for higher precision of intervention deployment.&lt;/p&gt;
 </description>
     </item>
     
@@ -27,6 +153,38 @@
       <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
       <guid>https://jianing-jenny-wang.github.io/research/hidden-population/</guid>
       <description>&lt;p&gt;We used multiple individually linked administrative health data to compare the results of stratified capture-recapture analysis and Bayesian multiplier benchmark analysis to estimate OUD prevalence in the Massachusetts population.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Estimated prevalence of opioid use disorder in Massachusetts, 2011–2015: a capture–recapture analysis</title>
+      <link>https://jianing-jenny-wang.github.io/publication/barocas-2018-ajph/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://jianing-jenny-wang.github.io/publication/barocas-2018-ajph/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;abstract&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Objectives.&lt;/strong&gt; To estimate the annual prevalence of opioid use disorder (OUD) in Massachusetts from 2011 to 2015.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Methods.&lt;/strong&gt; We performed a multisample stratified capture–recapture analysis to estimate OUD prevalence in Massachusetts. Individuals identified from 6 administrative databases for 2011 to 2012 and 7 databases for 2013 to 2015 were linked at the individual level and included in the analysis. Individuals were stratified by age group, sex, and county of residence.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Results.&lt;/strong&gt; The OUD prevalence in Massachusetts among people aged 11 years or older was 2.72% in 2011 and 2.87% in 2012. Between 2013 and 2015, the prevalence increased from 3.87% to 4.60%. The greatest increase in prevalence was observed among those in the youngest age group (11–25 years), a 76% increase from 2011 to 2012 and a 42% increase from 2013 to 2015.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Conclusions.&lt;/strong&gt; In Massachusetts, the OUD prevalence was 4.6% among people 11 years or older in 2015. The number of individuals with OUD is likely increasing, particularly among young people.&lt;/p&gt;
 </description>
     </item>
     

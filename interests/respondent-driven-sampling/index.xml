@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Respondent-Driven Sampling | Jianing Wang</title>
+    <link>https://jianing-jenny-wang.github.io/interests/respondent-driven-sampling/</link>
+      <atom:link href="https://jianing-jenny-wang.github.io/interests/respondent-driven-sampling/index.xml" rel="self" type="application/rss+xml" />
+    <description>Respondent-Driven Sampling</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 14 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jianing-jenny-wang.github.io/media/icon_hu61a5cda683b16e16ad250d48d66bc7bc_4894_512x512_fill_lanczos_center_3.png</url>
+      <title>Respondent-Driven Sampling</title>
+      <link>https://jianing-jenny-wang.github.io/interests/respondent-driven-sampling/</link>
+    </image>
+    
+    <item>
+      <title>Estimation and correction of bias in network simulations based on respondent-driven sampling data</title>
+      <link>https://jianing-jenny-wang.github.io/publication/zhu-2020-sr/</link>
+      <pubDate>Tue, 14 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://jianing-jenny-wang.github.io/publication/zhu-2020-sr/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;abstract&lt;/h2&gt;
+&lt;p&gt;Respondent-driven sampling (RDS) is widely used for collecting data on hard-to-reach populations, including information about the structure of the networks connecting the individuals. Characterizing network features can be important for designing and evaluating health programs, particularly those that involve infectious disease transmission. While the validity of population proportions estimated from RDS-based datasets has been well studied, little is known about potential biases in inference about network structure from RDS. We developed a mathematical and statistical platform to simulate network structures with exponential random graph models, and to mimic the data generation mechanisms produced by RDS. We used this framework to characterize biases in three important network statistics – density/mean degree, homophily, and transitivity. Generalized linear models were used to predict the network statistics of the original network from the network statistics of the sample network and observable sample design features. We found that RDS may introduce significant biases in the estimation of density/mean degree and transitivity, and may exaggerate homophily when preferential recruitment occurs. Adjustments to network-generating statistics derived from the prediction models could substantially improve validity of simulated networks in terms of density, and could reduce bias in replicating mean degree, homophily, and transitivity from the original network.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

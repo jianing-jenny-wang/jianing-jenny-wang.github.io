@@ -5,7 +5,7 @@
     <link>https://jianing-jenny-wang.github.io/interests/spatial/</link>
       <atom:link href="https://jianing-jenny-wang.github.io/interests/spatial/index.xml" rel="self" type="application/rss+xml" />
     <description>Spatial</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 30 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 02 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jianing-jenny-wang.github.io/media/icon_hu61a5cda683b16e16ad250d48d66bc7bc_4894_512x512_fill_lanczos_center_3.png</url>
       <title>Spatial</title>
@@ -13,11 +13,40 @@
     </image>
     
     <item>
+      <title>A spatial capture-recapture approach for estimating opioid use disorder prevalence in small areas using administrative data</title>
+      <link>https://jianing-jenny-wang.github.io/publication/wang-working-biostatistics/</link>
+      <pubDate>Mon, 02 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://jianing-jenny-wang.github.io/publication/wang-working-biostatistics/</guid>
+      <description>&lt;div align=&#34;center&#34;&gt;&lt;b&gt;&lt;i&gt; Working Paper &lt;/div&gt;
+&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+&lt;!-- ## abstract --&gt;
+&lt;!-- Respondent-driven sampling (RDS) is widely used for collecting data on hard-to-reach populations, including information about the structure of the networks connecting the individuals. Characterizing network features can be important for designing and evaluating health programs, particularly those that involve infectious disease transmission. While the validity of population proportions estimated from RDS-based datasets has been well studied, little is known about potential biases in inference about network structure from RDS. We developed a mathematical and statistical platform to simulate network structures with exponential random graph models, and to mimic the data generation mechanisms produced by RDS. We used this framework to characterize biases in three important network statistics – density/mean degree, homophily, and transitivity. Generalized linear models were used to predict the network statistics of the original network from the network statistics of the sample network and observable sample design features. We found that RDS may introduce significant biases in the estimation of density/mean degree and transitivity, and may exaggerate homophily when preferential recruitment occurs. Adjustments to network-generating statistics derived from the prediction models could substantially improve validity of simulated networks in terms of density, and could reduce bias in replicating mean degree, homophily, and transitivity from the original network. --&gt;</description>
+    </item>
+    
+    <item>
       <title>A Spatial Capture-Recapture Approach for Estimating Opioid Use Disorder Prevalence in Small Areas Using Administrative Data</title>
       <link>https://jianing-jenny-wang.github.io/research/spatial-capture-recapture/</link>
       <pubDate>Fri, 30 Sep 2022 00:00:00 +0000</pubDate>
       <guid>https://jianing-jenny-wang.github.io/research/spatial-capture-recapture/</guid>
-      <description>&lt;p&gt;We propose a two-stage Bayesian hierarchical model with spatial smoothing using a CRC data structure to estimate community-specific opioid use disorder (OUD) prevalence. We explicitly model the hidden prevalence of interest and the associated detection model that describes individual detection histories across data sources. This structure can also incorporate additional characteristics of communities that could be important in understanding patterns in the OUD epidemic, enabling local jurisdictions to identify spatial clusters and areas with high OUD risk for higher precision of intervention deployment.&lt;/p&gt;
+      <description>&lt;p&gt;We propose a two-stage Bayesian hierarchical model with spatial smoothing using a capture-recapture data structure to estimate community-specific opioid use disorder (OUD) prevalence. We explicitly model the hidden prevalence of interest and the associated detection model that describes individual detection histories across data sources. This structure can also incorporate additional characteristics of communities that could be important in understanding patterns in the OUD epidemic, enabling local jurisdictions to identify spatial clusters and areas with high OUD risk for higher precision of intervention deployment.&lt;/p&gt;
 </description>
     </item>
     

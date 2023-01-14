@@ -17,7 +17,7 @@
       <link>https://jianing-jenny-wang.github.io/research/spatial-capture-recapture/</link>
       <pubDate>Fri, 30 Sep 2022 00:00:00 +0000</pubDate>
       <guid>https://jianing-jenny-wang.github.io/research/spatial-capture-recapture/</guid>
-      <description>&lt;p&gt;We propose a two-stage Bayesian hierarchical model with spatial smoothing using a CRC data structure to estimate community-specific opioid use disorder (OUD) prevalence. We explicitly model the hidden prevalence of interest and the associated detection model that describes individual detection histories across data sources. This structure can also incorporate additional characteristics of communities that could be important in understanding patterns in the OUD epidemic, enabling local jurisdictions to identify spatial clusters and areas with high OUD risk for higher precision of intervention deployment.&lt;/p&gt;
+      <description>&lt;p&gt;We propose a two-stage Bayesian hierarchical model with spatial smoothing using a capture-recapture data structure to estimate community-specific opioid use disorder (OUD) prevalence. We explicitly model the hidden prevalence of interest and the associated detection model that describes individual detection histories across data sources. This structure can also incorporate additional characteristics of communities that could be important in understanding patterns in the OUD epidemic, enabling local jurisdictions to identify spatial clusters and areas with high OUD risk for higher precision of intervention deployment.&lt;/p&gt;
 </description>
     </item>
     

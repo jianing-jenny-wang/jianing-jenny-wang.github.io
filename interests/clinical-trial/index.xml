@@ -5,7 +5,7 @@
     <link>https://jianing-jenny-wang.github.io/interests/clinical-trial/</link>
       <atom:link href="https://jianing-jenny-wang.github.io/interests/clinical-trial/index.xml" rel="self" type="application/rss+xml" />
     <description>Clinical Trial</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 20 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jianing-jenny-wang.github.io/media/icon_hu61a5cda683b16e16ad250d48d66bc7bc_4894_512x512_fill_lanczos_center_3.png</url>
       <title>Clinical Trial</title>
@@ -13,11 +13,79 @@
     </image>
     
     <item>
+      <title>Modeling recurrent relapse and remitting episodes during MOUD treatment: a tutorial</title>
+      <link>https://jianing-jenny-wang.github.io/publication/wang-working-mdm/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://jianing-jenny-wang.github.io/publication/wang-working-mdm/</guid>
+      <description>&lt;div align=&#34;center&#34;&gt;&lt;b&gt;&lt;i&gt; Working Paper &lt;/div&gt;
+&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;abstract&lt;/h2&gt;
+&lt;p&gt;In longitudinal studies participants can often experience the outcome(s) of interest multiple times during the observation period, creating recurrent event data. Depending on the primary research objective, advanced statistical methods are required to correctly analyze this special type of data. This tutorial discusses four general frameworks, appropriate for analyzing recurrent events data; 1) extended Cox, 2) Parametric Survival, 3) Longitudinal, and 4) Multistate models. We present in detail the implementation of these methods, including description of the required dataset structure, R code, and interpretation of results, using data from the CTN-0051 study, a randomized clinical trial comparing the effectiveness of Opioid Use Disorder (OUD) treatments. Objectives of three use case scenarios exemplify usage and relevance of the methods for the analysis of recurrent events; 1) estimate adjusted effects, 2) make individual-level predictions, and 3) model a complicated process involving multidirectional transitions between disease states. We compare the methods, comment on their strengths and limitations and make recommendations on the preferred method depending on the primary research objective.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Safety Evaluation in Oncology Phase II Basket Trial</title>
       <link>https://jianing-jenny-wang.github.io/research/basket-trial/</link>
       <pubDate>Sat, 20 Nov 2021 00:00:00 +0000</pubDate>
       <guid>https://jianing-jenny-wang.github.io/research/basket-trial/</guid>
       <description>&lt;p&gt;We extend the Bayesian hierarchical modeling framework from efficacy assessment studies in basket trial design to characterize the treatment’s safety profile. We propose Bayesian multi-level count models adopting different likelihood options with additional focus placed on the choice of prior for the basket-level standard deviation.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Rapid versus laboratory-based testing for HIV and hepatitis C at a drug detoxification treatment center: a randomized trial</title>
+      <link>https://jianing-jenny-wang.github.io/publication/assoumou-2020-jid/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://jianing-jenny-wang.github.io/publication/assoumou-2020-jid/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;abstract&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Background&lt;/strong&gt;
+A health department survey revealed nearly half employ laboratory-based HIV and HCV testing (LBT) over rapid testing (RT) in nonhospital settings such as drug detoxification centers. LBT has higher sensitivity for acute HIV infection compared to RT but LBT is not point of care and may result in fewer diagnoses due to loss to follow-up before result delivery.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Methods&lt;/strong&gt;
+We conducted a randomized trial comparing real-world case notification of RT (Orasure) vs LBT (HIV Combo Ag/Ab EIA, HCV EIA) for HIV and HCV at a drug detoxification center. Primary outcome was receipt of test results within 2 weeks.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Results&lt;/strong&gt;
+Among 341 individuals screened (11/2016–7/2017), 200 met inclusion criteria; 58% injected drugs and 31% shared needles in the previous 6 months. Of the 200 randomized, 98 received RT and 102 LBT. Among all participants, 0.5% were positive for HIV and 48% for HCV; 96% received test results in the RT arm and 42% in the LBT arm (odds ratio, 28.72; 95% confidence interval, 10.27–80.31). Real-world case notification was 95% and 93% for HIV and HCV RT, respectively, compared to 42% for HIV and HCV LBT.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Conclusions&lt;/strong&gt;
+RT has higher real-world case notification than LBT at drug detoxification centers.&lt;/p&gt;
+&lt;p&gt;Clinical trials registration: NCT02869776.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Keywords:&lt;/strong&gt; HIV, hepatitis C, testing, linkage to care, injection drug use, drug treatment&lt;/p&gt;
 </description>
     </item>
     

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Complex Predictive Model | Jianing Wang</title>
+    <link>https://jianing-jenny-wang.github.io/interests/complex-predictive-model/</link>
+      <atom:link href="https://jianing-jenny-wang.github.io/interests/complex-predictive-model/index.xml" rel="self" type="application/rss+xml" />
+    <description>Complex Predictive Model</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 26 Mar 2022 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jianing-jenny-wang.github.io/media/icon_hu61a5cda683b16e16ad250d48d66bc7bc_4894_512x512_fill_lanczos_center_3.png</url>
+      <title>Complex Predictive Model</title>
+      <link>https://jianing-jenny-wang.github.io/interests/complex-predictive-model/</link>
+    </image>
+    
+    <item>
+      <title>Empirical Calibration of a Simulation Model of Opioid Use Disorder</title>
+      <link>https://jianing-jenny-wang.github.io/presentations/2022-ness/</link>
+      <pubDate>Sat, 26 Mar 2022 13:00:00 +0000</pubDate>
+      <guid>https://jianing-jenny-wang.github.io/presentations/2022-ness/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. --&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Simulation models of opioid use disorder (OUD) aim at evaluating the impact of different treatment strategies on population-level outcomes. Researching Effective Strategies to Prevent Opioid Death (RESPOND) is a dynamic population state-transition model that simulates Massachusetts (MA) OUD population synthesizing data from the MA Public Health Data Warehouse, published survey studies, and randomized trials. We implement an empirical calibration approach to fit RESPOND to multiple calibration targets, including yearly counts of fatal overdoses and detox admissions in 2013-2015, and 2015 OUD population counts in MA. We used capture-recapture analysis to estimate the OUD population and to quantify uncertainty around calibration targets. The empirical calibration approach involves Latin hypercube sampling for a parameter search of the multidimensional space, comprising demographics of “arrivals”, overdose rates, treatment transition rates, and substance use transition probabilities. The algorithm accepts proposed parameter values when the respective model outputs are “close” to the observed calibration targets based on uncertainty ranges of targets. Calibration provided an excellent fit to the model calibration targets. The flexibility of the algorithm also allowed us to identify certain &amp;ldquo;questionable&amp;rdquo; parts of the model structure and explore the underlying relationships between the model parameters in an efficient manner. The calibrated model also provided a good fit to validation targets: non-overdose related deaths, percentage of active OUDs, and all types of overdose counts (fatal and non-fatal). In addition, the resulting set of values for the calibrated parameters will inform the priors of a more comprehensive Bayesian calibration. The calibrated RESPOND model will be employed to improve shared decision-making for OUD.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Empirical Calibration of a Simulation Model of Opioid Use Disorder</title>
+      <link>https://jianing-jenny-wang.github.io/publication/madu-2022-preprint/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://jianing-jenny-wang.github.io/publication/madu-2022-preprint/</guid>
+      <description>&lt;h2 id=&#34;abstract&#34;&gt;abstract&lt;/h2&gt;
+&lt;p&gt;Simulation models of opioid use disorder (OUD) aim at evaluating the impact of different treatment
+strategies on population-level outcomes. Researching Effective Strategies to Prevent Opioid Death
+(RESPOND) is a dynamic population state-transition model that simulates Massachusetts (MA)
+OUD population synthesizing data from the MA Public Health Data Warehouse, published survey
+studies, and randomized trials. We implement an empirical calibration approach to fit RESPOND to
+multiple calibration targets, including yearly counts of fatal overdoses and detox admissions in
+2013-2015, and 2015 OUD population counts in MA. We used capture-recapture analysis to
+estimate the OUD population and to quantify uncertainty around calibration targets.
+1 The empirical
+calibration approach involves Latin hypercube sampling for a parameter search of the
+multidimensional space, comprising demographics of “arrivals”, overdose rates, treatment
+transition rates, and substance use transition probabilities. The algorithm accepts proposed
+parameter values when the respective model outputs are “close” to the observed calibration
+targets based on uncertainty ranges of targets. Calibration provided an excellent fit to the model
+calibration targets. The flexibility of the algorithm also allowed us to identify certain &amp;ldquo;questionable&amp;rdquo;
+parts of the model structure and explore the underlying relationships between the model
+parameters in an efficient manner. The calibrated model also provided a good fit to validation
+targets: non-overdose related deaths, percentage of active OUDs, and all types of overdose counts
+(fatal and non-fatal). In addition, the resulting set of values for the calibrated parameters will
+inform the priors of a more comprehensive Bayesian calibration. The calibrated RESPOND model
+will be employed to improve shared decision-making for OUD.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Projected Estimates of Opioid Mortality After Community-Level Interventions</title>
+      <link>https://jianing-jenny-wang.github.io/publication/linas-2021-jama/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://jianing-jenny-wang.github.io/publication/linas-2021-jama/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;abstract&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Importance&lt;/strong&gt;  The United States is experiencing a crisis of opioid overdose. In response, the US Department of Health and Human Services has defined a goal to reduce overdose mortality by 40% by 2022.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Objective&lt;/strong&gt;  To identify specific combinations of 3 interventions (initiating more people to medications for opioid use disorder [MOUD], increasing 6-month retention with MOUD, and increasing naloxone distribution) associated with at least a 40% reduction in opioid overdose in simulated populations.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Design, Setting, and Participants&lt;/strong&gt;  This decision analytical model used a dynamic population-level state-transition model to project outcomes over a 2-year horizon. Each intervention scenario was compared with the counterfactual of no intervention in simulated urban and rural communities in Massachusetts. Simulation modeling was used to determine the associations of community-level interventions with opioid overdose rates. The 3 examined interventions were initiation of more people to MOUD, increasing individuals’ retention with MOUD, and increasing distribution of naloxone. Data were analyzed from July to November 2020.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Main Outcomes and Measures&lt;/strong&gt;  Reduction in overdose mortality, medication treatment capacity needs, and naloxone needs.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Results&lt;/strong&gt;  No single intervention was associated with a 40% reduction in overdose mortality in the simulated communities. Reaching this goal required use of MOUD and naloxone. Achieving a 40% reduction required that 10% to 15% of the estimated OUD population not already receiving MOUD initiate MOUD every month, with 45% to 60%% retention for at least 6 months, and increased naloxone distribution. In all feasible settings and scenarios, attaining a 40% reduction in overdose mortality required that in every month, at least 10% of the population with OUD who were not currently receiving treatment initiate an MOUD.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Conclusions and Relevance&lt;/strong&gt; In this modeling study, only communities with increased capacity for treating with MOUD and increased MOUD retention experienced a 40% decrease in overdose mortality. These findings could provide a framework for developing community-level interventions to reduce opioid overdose death.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Meta-Modelling for Policy Simulations with Multivariate Outcomes</title>
+      <link>https://jianing-jenny-wang.github.io/publication/zhong-2019-conf/</link>
+      <pubDate>Sun, 20 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://jianing-jenny-wang.github.io/publication/zhong-2019-conf/</guid>
+      <description>&lt;!-- 
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;abstract&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Purpose:&lt;/strong&gt; A metamodel is a simplified approximation of the relationships between inputs and outputs in a simulation model. A challenge in metamodeling for policy analysis is that there are often multiple correlated outputs of interest: for example, costs and effects of different policy choices. We develop a framework for metamodeling that accommodates multivariate outcomes, and we compare alternatives for the choice of the base learning algorithm.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Methods:&lt;/strong&gt; To generate metamodels for multivariate outcomes, we combined two algorithm adaptation methods – multi-target stacking (MTS) and regression chain with maximum correlation chain (RCCC) – together with different base learners including linear regression (LR), elastic net (EN) with second-order terms, Gaussian process regression (GPR), random forests (RFs), and neural networks (NNs). We optimized the integrated models using variable selection and hyperparameter tuning. We compared approaches in terms of model accuracy, efficiency, and interpretability. To illustrate the framework, we used inputs and outputs from an individual-based decision analytic simulation model of testing and treatment strategies for chronic hepatitis C virus in correctional settings. The training data set included 2,000 simulations, each summarized by 37 input variables and 60 output variables (5 economic and health outcomes for 6 alternative strategies measured over 2 time horizons).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Results:&lt;/strong&gt; The output variables from the simulation model were heavily correlated (average rho=0.58). Without multioutput algorithm adaptation methods, in-sample fit (measured by R2) ranged from 0.881 for LR to 0.987 for GPR. Inclusion of multioutput algorithm adaptation methods increased R2by 0.004 on average across all base leaners, and variable selection and hyperparameter tuning added 0.009. In terms of model efficiency, simpler models such as LR, EN, and RF required minimal training and prediction time. GPR had short prediction time, but the training time was heavily affected by the size of the training dataset. NN had the longest training and prediction time. For model interpretability, LR and EN have clear advantages, but we also consider methods for improving interpretability of other models.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Conclusions:&lt;/strong&gt; This study provides a framework for metamodeling in policy analyses with multivariate outcomes of interest. While the advantages and disadvantages of specific learning algorithms may vary across different modeling applications, we expect that the general framework presented here will have broad applicability to decision analytic models in health and medicine.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

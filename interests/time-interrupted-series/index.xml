@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Time Interrupted Series | Jianing Wang</title>
+    <link>https://jianing-jenny-wang.github.io/interests/time-interrupted-series/</link>
+      <atom:link href="https://jianing-jenny-wang.github.io/interests/time-interrupted-series/index.xml" rel="self" type="application/rss+xml" />
+    <description>Time Interrupted Series</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jianing-jenny-wang.github.io/media/icon_hu61a5cda683b16e16ad250d48d66bc7bc_4894_512x512_fill_lanczos_center_3.png</url>
+      <title>Time Interrupted Series</title>
+      <link>https://jianing-jenny-wang.github.io/interests/time-interrupted-series/</link>
+    </image>
+    
+    <item>
+      <title>Hepatitis C testing increased among baby boomers following the 2012 change to CDC testing recommendations</title>
+      <link>https://jianing-jenny-wang.github.io/publication/barocas-2017-ha/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://jianing-jenny-wang.github.io/publication/barocas-2017-ha/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;abstract&lt;/h2&gt;
+&lt;p&gt;In 2012 the Centers for Disease Control and Prevention recommended routine testing for hepatitis C for people born in the period 1945–65. Until now, the recommendation’s impact on hepatitis C screening rates in the United States has not been fully understood. We used an interrupted time series with comparison group design to analyze hepatitis C screening rates in the period 2010–14 among 2.8 million commercially insured adults in the MarketScan database. Hepatitis C screening rates increased yearly between 2010 and 2014, from 1.65 to 2.59 per 100 person-years. A 49 percent increase in screening rates among people born during 1945–65 followed the release of the recommendation, but no such increase was observed among adults born after 1965. The effect among the target population was sustained, and by twenty-four months after the recommendation’s release, screening rates had increased 106 percent. We conclude that the hepatitis C testing policy change resulted in significantly increased testing among the target population and may have decreased the magnitude of the hepatitis C epidemic.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Keywords:&lt;/strong&gt; endocarditis, opioid use disorder, opioid epidemic, medications, hospitalization&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

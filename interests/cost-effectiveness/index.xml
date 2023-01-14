@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cost-Effectiveness | Jianing Wang</title>
+    <link>https://jianing-jenny-wang.github.io/interests/cost-effectiveness/</link>
+      <atom:link href="https://jianing-jenny-wang.github.io/interests/cost-effectiveness/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cost-Effectiveness</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 12 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jianing-jenny-wang.github.io/media/icon_hu61a5cda683b16e16ad250d48d66bc7bc_4894_512x512_fill_lanczos_center_3.png</url>
+      <title>Cost-Effectiveness</title>
+      <link>https://jianing-jenny-wang.github.io/interests/cost-effectiveness/</link>
+    </image>
+    
+    <item>
+      <title>Population-level impact of initiating pharmacotherapy and linking to care people with opioid use disorder at inpatient medically managed withdrawal programs: an effectiveness and cost-effectiveness analysis</title>
+      <link>https://jianing-jenny-wang.github.io/publication/savinkina-2022-addc/</link>
+      <pubDate>Tue, 12 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://jianing-jenny-wang.github.io/publication/savinkina-2022-addc/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;abstract&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Background and Aims&lt;/strong&gt;
+Medications for opioid use disorder (MOUD) are shown to reduce opioid use and the risk of overdose. People with opioid use disorder (OUD) who exit inpatient medically managed withdrawal programs (detox) without initiating MOUD and linking to outpatient care have high rates of overdose. While detox encounters provide a theoretical opportunity for MOUD initiation, this is not ubiquitous in the United States. We used simulation modeling to estimate the population-level health effects and cost-effectiveness of a policy encouraging MOUD initiation during inpatient detox encounters.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Design, Setting and Participants&lt;/strong&gt;
+We employed a dynamic population state-transition model to evaluate the effectiveness and cost-effectiveness of using detox programs as venues for initiating MOUD in Massachusetts, United States. We compared standard of care, where no detox patients initiate MOUD or link to outpatient MOUD providers, to strategies of offering MOUD to detox patients and linking those patients to outpatient MOUD.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Measures&lt;/strong&gt;
+Budgetary impact to the Massachusetts health-care sector, incremental cost-effectiveness ratios (ICER) and total counts and percentage differences of fatal overdoses prevented.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Findings&lt;/strong&gt;
+Initiating MOUD in detox with perfect linkage to outpatient MOUD would reduce fatal overdoses by 4.5% [95% confidence interval (CI) = 2.3–5.9], at an ICER of $56 000 per quality-adjusted life-year (QALY) gained, compared with the standard of care. With moderate linkage, fatal overdoses would be reduced by 2.3% (95% CI= 1.2–3.1) with an ICER of $78 500 per QALY gained, compared with standard of care. Budgetary increase to Massachusetts health-care spending ranged from 0.5–1%.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;
+A simulation model indicates that initiation of medications for opioid use disorder and linkage policies among detox patients in Massachusetts, USA could prevent fatal opioid overdoses in the opioid use disorder population and would be cost-effective from a health-care sector perspective.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Modeling the cost-effectiveness and impact on fatal overdose and initiation of buprenorphine–naloxone treatment at syringe service programs</title>
+      <link>https://jianing-jenny-wang.github.io/publication/adam-2022-addc/</link>
+      <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://jianing-jenny-wang.github.io/publication/adam-2022-addc/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;abstract&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Aim&lt;/strong&gt;
+To estimate the number of treatment initiations, averted fatal opioid overdoses and the cost-effectiveness associated with offering buprenorphine–naloxone (buprenorphine) treatment on-site within existing syringe service programs (SSPs) in Massachusetts, USA.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Design, Setting and Participants&lt;/strong&gt;
+This was a cohort-based mathematical model and cost-effectiveness analysis. We derived model inputs from state and national surveillance data, clinical trials and observational cohort studies. We compared an intervention scenario where 30% of SSP clients initiated buprenorphine treatment on-site at least once annually to a status quo scenario where no buprenorphine was available on-site among community treatment providers in Massachusetts, 2020–30. In individuals with opioid use disorder (OUD) we assumed that 80% of SSP clients had recently injected drugs and that treatment within SSPs would have similar or improved retention compared with standard-of-care buprenorphine programs, but higher rates of active opioid use while in treatment.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Measurements&lt;/strong&gt;
+Number of treatment initiations (i.e. individuals began treatment on a medication for opioid use disorder or entered medically managed withdrawal), averted fatal opioid overdoses, quality-adjusted life-years (QALYs) and life-time discounted costs from a health sector and a limited societal perspective.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Findings&lt;/strong&gt;
+The status quo scenario resulted in 23 051 fatal overdoses and 1 511 613 treatment initiations over a 10-year simulation period. An intervention scenario with on-site SSP buprenorphine treatment averted 4797 (−20.8%) fatal opioid overdoses and resulted in 129 359 (+8.6%) additional treatment initiations compared with the status quo. The intervention scenario was the dominating scenario: providing OUD treatment through Massachusetts SSPs cost less (−$3612 per person) with patients accumulating more QALYs (0.2 per person) compared with the status quo scenario.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Conclusions&lt;/strong&gt;
+Offering buprenorphine treatment on-site within syringe service programs has the potential to decrease fatal overdoses substantially, improve treatment engagement and save on costs.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hepatitis C Management at Federally Qualified Health Centers during the Opioid Epidemic: A Cost-Effectiveness Study</title>
+      <link>https://jianing-jenny-wang.github.io/publication/assoumou-2020-ajpm/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://jianing-jenny-wang.github.io/publication/assoumou-2020-ajpm/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;abstract&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Background&lt;/strong&gt;
+The opioid epidemic has been associated with an increase in hepatitis C virus (HCV) infections. Federally qualified health centers (FQHCs) have a high burden of hepatitis C disease and could serve as venues to enhance testing and treatment.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Methods&lt;/strong&gt;
+We estimated clinical outcomes and the cost-effectiveness of hepatitis C testing and treatment at US FQHCs using individual-based simulation modeling. We used individual-level data from 57 FQHCs to model 9 strategies, including permutations of HCV antibody testing modality, person initiating testing, and testing approach. Outcomes included life expectancy, quality-adjusted life-years (QALY), hepatitis C cases identified, treated and cured; and incremental cost-effectiveness ratios.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Results&lt;/strong&gt;
+Compared with current practice (risk-based with laboratory-based testing), routine rapid point-of-care testing initiated and performed by a counselor identified 68% more cases after (nonreflex) RNA testing in the first month of the intervention and led to a 17% reduction in cirrhosis cases and a 22% reduction in liver deaths among those with cirrhosis over a lifetime. Routine rapid testing initiated by a counselor or a clinician provided better outcomes at either lower total cost or at lower cost per QALY gained, when compared with all other strategies. Findings were most influenced by the proportion of patients informed of their anti-HCV test results.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Conclusions&lt;/strong&gt;
+Routine anti-HCV testing followed by prompt RNA testing for positives is recommended at FQHCs to identify infections. If using dedicated staff or point-of-care testing is not feasible, then measures to improve immediate patient knowledge of antibody status should be considered.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cost-effectiveness and budgetary impact of hepatitis C virus testing, treatment, and linkage to care in US prisons</title>
+      <link>https://jianing-jenny-wang.github.io/publication/assoumou-2020-cid/</link>
+      <pubDate>Tue, 17 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://jianing-jenny-wang.github.io/publication/assoumou-2020-cid/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;abstract&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Background&lt;/strong&gt;
+Hepatitis C virus (HCV) testing and treatment uptake in prisons remains low. We aimed to estimate clinical outcomes, cost-effectiveness (CE), and budgetary impact (BI) of HCV testing and treatment in United States (US) prisons or linkage to care at release.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Methods&lt;/strong&gt;
+We used individual-based simulation modeling with healthcare and Department of Corrections (DOC) perspectives for CE and BI analyses, respectively. We simulated a US prison cohort at entry using published data and Washington State DOC individual-level data. We considered permutations of testing (risk factor based, routine at entry or at release, no testing), treatment (if liver fibrosis stage ≥F3, for all HCV infected or no treatment), and linkage to care (at release or no linkage). Outcomes included quality-adjusted life-years (QALY); cases identified, treated, and cured; cirrhosis cases avoided; incremental cost-effectiveness ratios; DOC costs (2016 US dollars); and BI (healthcare cost/prison entrant) to generalize to other states.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Results&lt;/strong&gt;
+Compared to “no testing, no treatment, and no linkage to care,” the “test all, treat all, and linkage to care at release” model increased the lifetime sustained virologic response by 23%, reduced cirrhosis cases by 54% at a DOC annual additional cost of $1440 per prison entrant, and would be cost-effective. At current drug prices, targeted testing and liver fibrosis–based treatment provided worse outcomes at higher cost or worse outcomes at higher cost per QALY gained. In sensitivity analysis, fibrosis-based treatment restrictions were cost-effective at previous higher drug costs.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Conclusions&lt;/strong&gt;
+Although costly, widespread testing and treatment in prisons is considered to be of good value at current drug prices.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Keywords:&lt;/strong&gt; hepatitis C, prisons, computer simulation model, cost-effectiveness, budgetary impact&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Population-level outcomes and cost-effectiveness of expanding the recommendation for age-based hepatitis C testing in the United States</title>
+      <link>https://jianing-jenny-wang.github.io/publication/barocas-2018-cid/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://jianing-jenny-wang.github.io/publication/barocas-2018-cid/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;abstract&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Background&lt;/strong&gt;
+The US Centers for Disease Control and Prevention and the U.S. Preventive Services Task Force recommend one-time hepatitis C virus (HCV) testing for persons born 1945–1965 and targeted testing for high-risk persons. This strategy targets HCV testing to a prevalent population at high risk for HCV morbidity and mortality, but does not include younger populations with high incidence. To address this gap and improve access to HCV testing, age-based strategies should be considered.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Methods&lt;/strong&gt;
+We used a simulation of HCV to estimate the effectiveness and cost-effectiveness of HCV testing strategies: 1) standard of care (SOC) – recommendation for one-time testing for all persons born 1945–1965, 2) recommendation for one-time testing for adults ≥40 years (≥40 strategy), 3) ≥30 years (≥30 strategy), and 4) ≥18 years (≥18 strategy). All strategies assumed targeted testing of high-risk persons. Inputs were derived from national databases, observational cohorts and clinical trials. Outcomes included quality-adjusted life expectancy, costs, and cost-effectiveness.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Results&lt;/strong&gt;
+Expanded age-based testing strategies increased US population lifetime case identification and cure rates. Greatest increases were observed in the ≥18 strategy. Compared to the SOC, this strategy resulted in an estimated 256,000 additional infected persons identified and 280,000 additional cures at the lowest cost per QALY gained (ICER = $28,000/QALY).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Conclusions&lt;/strong&gt;
+In addition to risk-based testing, one-time HCV testing of persons 18 and older appears to be cost-effective, leads to improved clinical outcomes and identifies more persons with HCV than the current birth cohort recommendations. These findings could be considered for future recommendation revisions.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Keywords:&lt;/strong&gt; hepatitis C virus, testing, cost-effectiveness
+&lt;strong&gt;Topic:&lt;/strong&gt; cost effectivenesshepatitis cadulthepatitis c virus&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

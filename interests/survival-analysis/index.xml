@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Survival Analysis | Jianing Wang</title>
+    <link>https://jianing-jenny-wang.github.io/interests/survival-analysis/</link>
+      <atom:link href="https://jianing-jenny-wang.github.io/interests/survival-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Survival Analysis</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jianing-jenny-wang.github.io/media/icon_hu61a5cda683b16e16ad250d48d66bc7bc_4894_512x512_fill_lanczos_center_3.png</url>
+      <title>Survival Analysis</title>
+      <link>https://jianing-jenny-wang.github.io/interests/survival-analysis/</link>
+    </image>
+    
+    <item>
+      <title>Modeling recurrent relapse and remitting episodes during MOUD treatment: a tutorial</title>
+      <link>https://jianing-jenny-wang.github.io/publication/wang-working-mdm/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://jianing-jenny-wang.github.io/publication/wang-working-mdm/</guid>
+      <description>&lt;div align=&#34;center&#34;&gt;&lt;b&gt;&lt;i&gt; Working Paper &lt;/div&gt;
+&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;abstract&lt;/h2&gt;
+&lt;p&gt;In longitudinal studies participants can often experience the outcome(s) of interest multiple times during the observation period, creating recurrent event data. Depending on the primary research objective, advanced statistical methods are required to correctly analyze this special type of data. This tutorial discusses four general frameworks, appropriate for analyzing recurrent events data; 1) extended Cox, 2) Parametric Survival, 3) Longitudinal, and 4) Multistate models. We present in detail the implementation of these methods, including description of the required dataset structure, R code, and interpretation of results, using data from the CTN-0051 study, a randomized clinical trial comparing the effectiveness of Opioid Use Disorder (OUD) treatments. Objectives of three use case scenarios exemplify usage and relevance of the methods for the analysis of recurrent events; 1) estimate adjusted effects, 2) make individual-level predictions, and 3) model a complicated process involving multidirectional transitions between disease states. We compare the methods, comment on their strengths and limitations and make recommendations on the preferred method depending on the primary research objective.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

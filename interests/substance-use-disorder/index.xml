@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Substance Use Disorder | Jianing Wang</title>
+    <link>https://jianing-jenny-wang.github.io/interests/substance-use-disorder/</link>
+      <atom:link href="https://jianing-jenny-wang.github.io/interests/substance-use-disorder/index.xml" rel="self" type="application/rss+xml" />
+    <description>Substance Use Disorder</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 02 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jianing-jenny-wang.github.io/media/icon_hu61a5cda683b16e16ad250d48d66bc7bc_4894_512x512_fill_lanczos_center_3.png</url>
+      <title>Substance Use Disorder</title>
+      <link>https://jianing-jenny-wang.github.io/interests/substance-use-disorder/</link>
+    </image>
+    
+    <item>
+      <title>A spatial capture-recapture approach for estimating opioid use disorder prevalence in small areas using administrative data</title>
+      <link>https://jianing-jenny-wang.github.io/publication/wang-working-biostatistics/</link>
+      <pubDate>Mon, 02 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://jianing-jenny-wang.github.io/publication/wang-working-biostatistics/</guid>
+      <description>&lt;div align=&#34;center&#34;&gt;&lt;b&gt;&lt;i&gt; Working Paper &lt;/div&gt;
+&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+&lt;!-- ## abstract --&gt;
+&lt;!-- Respondent-driven sampling (RDS) is widely used for collecting data on hard-to-reach populations, including information about the structure of the networks connecting the individuals. Characterizing network features can be important for designing and evaluating health programs, particularly those that involve infectious disease transmission. While the validity of population proportions estimated from RDS-based datasets has been well studied, little is known about potential biases in inference about network structure from RDS. We developed a mathematical and statistical platform to simulate network structures with exponential random graph models, and to mimic the data generation mechanisms produced by RDS. We used this framework to characterize biases in three important network statistics – density/mean degree, homophily, and transitivity. Generalized linear models were used to predict the network statistics of the original network from the network statistics of the sample network and observable sample design features. We found that RDS may introduce significant biases in the estimation of density/mean degree and transitivity, and may exaggerate homophily when preferential recruitment occurs. Adjustments to network-generating statistics derived from the prediction models could substantially improve validity of simulated networks in terms of density, and could reduce bias in replicating mean degree, homophily, and transitivity from the original network. --&gt;</description>
+    </item>
+    
+    <item>
+      <title>Massachusetts prevalence of Opioid Use Disorder estimation revisited: Comparing a Bayesian approach to standard capture-recapture methods</title>
+      <link>https://jianing-jenny-wang.github.io/publication/wang-working-aje/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://jianing-jenny-wang.github.io/publication/wang-working-aje/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+&lt;div align=&#34;center&#34;&gt;&lt;b&gt;&lt;i&gt; Working Paper &lt;/div&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;abstract&lt;/h2&gt;
+&lt;p&gt;Accurate estimation of the prevalence of people with opioid use disorder (OUD) is critical to the success of treatment and resource planning. Various indirect estimation approaches have been used but are subject to issues related to data availability and infrastructure. We used 2015 data from the Massachusetts Public Health Data Warehouse (PHD) to compare the results of two approaches to estimating OUD prevalence in the Massachusetts population. First, we used a seven-data set capture-recapture analysis under log-linear model parameterization, controlling for the source dependence and effects of age, sex, and county through stratification. Second, we applied a benchmark-multiplier method in a Bayesian framework by linking healthcare claims data to death certificate data assuming an extrapolation of death rates from observed untreated OUD to unobserved OUD. The estimates for OUD among MA residents were compared using the results from each approach and were 4.62% (95% CI: 4.59%, 4.64%) in the capture-recapture and 4.29% (95% CrI: 3.49%, 5.32%) in the Bayesian model. The comparison suggests that concurrent use of multiple methods improves the justification and facilitates the triangulation and interpretation of the resulting estimates.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Keywords:&lt;/strong&gt; Opioid use disorder prevalence estimation, capture-recapture analysis, Bayesian benchmark-multiplier method, surveillance data integration&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Trial registration:&lt;/strong&gt; ClinicalTrials.gov Identifier: NCT04111939&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>On the estimation of population size – A comparison of capture-recapture and multiplier-benchmark methods</title>
+      <link>https://jianing-jenny-wang.github.io/publication/wang-working-statmed/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://jianing-jenny-wang.github.io/publication/wang-working-statmed/</guid>
+      <description>&lt;div align=&#34;center&#34;&gt;&lt;b&gt;&lt;i&gt; Working Paper &lt;/div&gt;
+&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+&lt;!-- ## abstract --&gt;
+&lt;!-- Respondent-driven sampling (RDS) is widely used for collecting data on hard-to-reach populations, including information about the structure of the networks connecting the individuals. Characterizing network features can be important for designing and evaluating health programs, particularly those that involve infectious disease transmission. While the validity of population proportions estimated from RDS-based datasets has been well studied, little is known about potential biases in inference about network structure from RDS. We developed a mathematical and statistical platform to simulate network structures with exponential random graph models, and to mimic the data generation mechanisms produced by RDS. We used this framework to characterize biases in three important network statistics – density/mean degree, homophily, and transitivity. Generalized linear models were used to predict the network statistics of the original network from the network statistics of the sample network and observable sample design features. We found that RDS may introduce significant biases in the estimation of density/mean degree and transitivity, and may exaggerate homophily when preferential recruitment occurs. Adjustments to network-generating statistics derived from the prediction models could substantially improve validity of simulated networks in terms of density, and could reduce bias in replicating mean degree, homophily, and transitivity from the original network. --&gt;</description>
+    </item>
+    
+    <item>
+      <title>The prevalence of opioid use disorder in Kentucky’s counties: A two-year multi-sample capture-recapture analysis</title>
+      <link>https://jianing-jenny-wang.github.io/publication/thompson-2023-daad/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://jianing-jenny-wang.github.io/publication/thompson-2023-daad/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;abstract&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Background&lt;/strong&gt;
+Kentucky has one of the highest opioid overdose mortality rates in the United States. Accurate estimates of people with opioid use disorder (OUD) are critical to plan for the scope of interventions required to reduce overdose and opioid misuse. Commonly used household surveys are known to underestimate OUD at the state-level and do not provide county-level estimates.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Methods&lt;/strong&gt;
+We performed a multi-sample capture-recapture analysis to estimate OUD prevalence in Kentucky in 2018 and 2019. We utilized four statewide datasets that were linked at the individual level: 1) Registry of Vital Statistics, 2) Emergency Medical Services (EMS), 3) Kentucky’s Prescription Drug Monitoring Program (PDMP), and 4) Kentucky Medicaid. We included persons aged 18–64 years who resided in Kentucky between 2018 and 2019. We identified individuals with administrative data consistent with OUD in each of the datasets, including a fatal opioid-involved overdose (Vital Statistics), EMS runs for suspected opioid overdose, receipt of buprenorphine for OUD treatment (PDMP), or Medicaid claims for OUD. Observed and estimated counts of OUD cases and prevalence of OUD among the adult population in Kentucky.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Results&lt;/strong&gt;
+The estimated statewide OUD prevalence was 5.5 % and 5.9 % for 2018 and 2019, respectively, ranging from 1.3 % to 17.7 % across Kentucky counties. As expected, counties with the highest OUD rates were Appalachian counties (eastern area) of the state.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Conclusions&lt;/strong&gt;
+Our analysis reveals a substantially larger proportion of KY residents have OUD than previously estimated. Our approach offers a model for states needing county-level estimates of OUD.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Opioid Use Disorder Among Ohio’s Medicaid Population: Prevalence Estimates From 19 Counties Using a Multiplier Method</title>
+      <link>https://jianing-jenny-wang.github.io/publication/doogan-2022-aje/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://jianing-jenny-wang.github.io/publication/doogan-2022-aje/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;abstract&lt;/h2&gt;
+&lt;p&gt;The decades-long overdose epidemic in the United States is driven by opioid misuse. Overdoses commonly, although not exclusively, occur in individuals with opioid use disorder (OUD). To allocate adequate resources and develop appropriately scaled public health responses, accurate estimation of the prevalence of OUD is needed. Indirect methods (e.g., a multiplier method) of estimating prevalence of problematic substance-use behavior circumvent some limitations of household surveys and use of administrative data. We used a multiplier method to estimate OUD prevalence among the adult Medicaid population (ages 18–64 years) in 19 Ohio counties that are highly affected by overdose. We used Medicaid claims data and the US National Vital Statistics System overdose death data, which were linked at the person level. A statistical model leveraged opioid-related death rate information from a group with known OUD to estimate prevalence among a group with unknown OUD status given recorded opioid-related deaths in that group. We estimated that 13.6% of the total study population had OUD in 2019. Men (16.7%) had a higher prevalence of OUD than women (11.4%), and persons aged 35–54 had the highest prevalence (16.7%). Our approach to prevalence estimation has important implications for OUD surveillance and treatment in the United States.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Keywords:&lt;/strong&gt; indirect prevalence estimation, opioid use disorder, prevalence
+&lt;strong&gt;Issue Section:&lt;/strong&gt; PRACTICE OF EPIDEMIOLOGY&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Population-level impact of initiating pharmacotherapy and linking to care people with opioid use disorder at inpatient medically managed withdrawal programs: an effectiveness and cost-effectiveness analysis</title>
+      <link>https://jianing-jenny-wang.github.io/publication/savinkina-2022-addc/</link>
+      <pubDate>Tue, 12 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://jianing-jenny-wang.github.io/publication/savinkina-2022-addc/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;abstract&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Background and Aims&lt;/strong&gt;
+Medications for opioid use disorder (MOUD) are shown to reduce opioid use and the risk of overdose. People with opioid use disorder (OUD) who exit inpatient medically managed withdrawal programs (detox) without initiating MOUD and linking to outpatient care have high rates of overdose. While detox encounters provide a theoretical opportunity for MOUD initiation, this is not ubiquitous in the United States. We used simulation modeling to estimate the population-level health effects and cost-effectiveness of a policy encouraging MOUD initiation during inpatient detox encounters.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Design, Setting and Participants&lt;/strong&gt;
+We employed a dynamic population state-transition model to evaluate the effectiveness and cost-effectiveness of using detox programs as venues for initiating MOUD in Massachusetts, United States. We compared standard of care, where no detox patients initiate MOUD or link to outpatient MOUD providers, to strategies of offering MOUD to detox patients and linking those patients to outpatient MOUD.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Measures&lt;/strong&gt;
+Budgetary impact to the Massachusetts health-care sector, incremental cost-effectiveness ratios (ICER) and total counts and percentage differences of fatal overdoses prevented.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Findings&lt;/strong&gt;
+Initiating MOUD in detox with perfect linkage to outpatient MOUD would reduce fatal overdoses by 4.5% [95% confidence interval (CI) = 2.3–5.9], at an ICER of $56 000 per quality-adjusted life-year (QALY) gained, compared with the standard of care. With moderate linkage, fatal overdoses would be reduced by 2.3% (95% CI= 1.2–3.1) with an ICER of $78 500 per QALY gained, compared with standard of care. Budgetary increase to Massachusetts health-care spending ranged from 0.5–1%.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;
+A simulation model indicates that initiation of medications for opioid use disorder and linkage policies among detox patients in Massachusetts, USA could prevent fatal opioid overdoses in the opioid use disorder population and would be cost-effective from a health-care sector perspective.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Modeling the cost-effectiveness and impact on fatal overdose and initiation of buprenorphine–naloxone treatment at syringe service programs</title>
+      <link>https://jianing-jenny-wang.github.io/publication/adam-2022-addc/</link>
+      <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://jianing-jenny-wang.github.io/publication/adam-2022-addc/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;abstract&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Aim&lt;/strong&gt;
+To estimate the number of treatment initiations, averted fatal opioid overdoses and the cost-effectiveness associated with offering buprenorphine–naloxone (buprenorphine) treatment on-site within existing syringe service programs (SSPs) in Massachusetts, USA.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Design, Setting and Participants&lt;/strong&gt;
+This was a cohort-based mathematical model and cost-effectiveness analysis. We derived model inputs from state and national surveillance data, clinical trials and observational cohort studies. We compared an intervention scenario where 30% of SSP clients initiated buprenorphine treatment on-site at least once annually to a status quo scenario where no buprenorphine was available on-site among community treatment providers in Massachusetts, 2020–30. In individuals with opioid use disorder (OUD) we assumed that 80% of SSP clients had recently injected drugs and that treatment within SSPs would have similar or improved retention compared with standard-of-care buprenorphine programs, but higher rates of active opioid use while in treatment.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Measurements&lt;/strong&gt;
+Number of treatment initiations (i.e. individuals began treatment on a medication for opioid use disorder or entered medically managed withdrawal), averted fatal opioid overdoses, quality-adjusted life-years (QALYs) and life-time discounted costs from a health sector and a limited societal perspective.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Findings&lt;/strong&gt;
+The status quo scenario resulted in 23 051 fatal overdoses and 1 511 613 treatment initiations over a 10-year simulation period. An intervention scenario with on-site SSP buprenorphine treatment averted 4797 (−20.8%) fatal opioid overdoses and resulted in 129 359 (+8.6%) additional treatment initiations compared with the status quo. The intervention scenario was the dominating scenario: providing OUD treatment through Massachusetts SSPs cost less (−$3612 per person) with patients accumulating more QALYs (0.2 per person) compared with the status quo scenario.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Conclusions&lt;/strong&gt;
+Offering buprenorphine treatment on-site within syringe service programs has the potential to decrease fatal overdoses substantially, improve treatment engagement and save on costs.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Empirical Calibration of a Simulation Model of Opioid Use Disorder</title>
+      <link>https://jianing-jenny-wang.github.io/publication/madu-2022-preprint/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://jianing-jenny-wang.github.io/publication/madu-2022-preprint/</guid>
+      <description>&lt;h2 id=&#34;abstract&#34;&gt;abstract&lt;/h2&gt;
+&lt;p&gt;Simulation models of opioid use disorder (OUD) aim at evaluating the impact of different treatment
+strategies on population-level outcomes. Researching Effective Strategies to Prevent Opioid Death
+(RESPOND) is a dynamic population state-transition model that simulates Massachusetts (MA)
+OUD population synthesizing data from the MA Public Health Data Warehouse, published survey
+studies, and randomized trials. We implement an empirical calibration approach to fit RESPOND to
+multiple calibration targets, including yearly counts of fatal overdoses and detox admissions in
+2013-2015, and 2015 OUD population counts in MA. We used capture-recapture analysis to
+estimate the OUD population and to quantify uncertainty around calibration targets.
+1 The empirical
+calibration approach involves Latin hypercube sampling for a parameter search of the
+multidimensional space, comprising demographics of “arrivals”, overdose rates, treatment
+transition rates, and substance use transition probabilities. The algorithm accepts proposed
+parameter values when the respective model outputs are “close” to the observed calibration
+targets based on uncertainty ranges of targets. Calibration provided an excellent fit to the model
+calibration targets. The flexibility of the algorithm also allowed us to identify certain &amp;ldquo;questionable&amp;rdquo;
+parts of the model structure and explore the underlying relationships between the model
+parameters in an efficient manner. The calibrated model also provided a good fit to validation
+targets: non-overdose related deaths, percentage of active OUDs, and all types of overdose counts
+(fatal and non-fatal). In addition, the resulting set of values for the calibrated parameters will
+inform the priors of a more comprehensive Bayesian calibration. The calibrated RESPOND model
+will be employed to improve shared decision-making for OUD.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>HIV Pre-exposure prophylaxis and buprenorphine at a drug detoxification center during the opioid epidemic: opportunities and challenges</title>
+      <link>https://jianing-jenny-wang.github.io/publication/assoumou-2021-aab/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://jianing-jenny-wang.github.io/publication/assoumou-2021-aab/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;abstract&lt;/h2&gt;
+&lt;p&gt;Human immunodeficiency virus (HIV) pre-exposure prophylaxis (PrEP) and buprenorphine decrease HIV acquisition. Between November, 2016 - July, 2017, we surveyed persons (N=200) at a drug detoxification center to assess their interest in PrEP and in buprenorphine, and to examine factors associated with such interests. Over the previous 6 months, 58% (117/200) injected drugs, 87% (173/200) used opioids, 50% (85/171) had condomless sex. Only 22% (26/117) of persons who injected drugs were aware of PrEP, yet 74% (86/116) and 72% (84/116) were interested in oral or injectable PrEP, respectively. Thirty-eight percent (47/125) of persons not receiving buprenorphine or methadone expressed interest in buprenorphine. After multivariable adjustment, Latinx ethnicity was associated with interest in PrEP (aOR: 3.80; 95% CI, 1.37–10.53), while male gender (aOR: 2.76; 95% CI, 1.21–6.34) was associated with interest in buprenorphine. Opportunities exist to implement PrEP and buprenorphine within drug detoxification centers.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Keywords:&lt;/strong&gt; pre-exposure prophylaxis, persons who inject drugs, human immunodeficiency virus, medication for opioid use disorder, drug detoxification center&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Outcomes associated with medications for opioid use disorder among persons hospitalized for infective endocarditis</title>
+      <link>https://jianing-jenny-wang.github.io/publication/barocas-2021-cid/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://jianing-jenny-wang.github.io/publication/barocas-2021-cid/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;abstract&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Background&lt;/strong&gt;
+Endocarditis, once predominately found in older adults, is increasingly common among younger persons who inject drugs. Untreated opioid use disorder (OUD) complicates endocarditis management. We aimed to determine if rates of overdose and rehospitalization differ between persons with OUD with endocarditis who are initiated on medications for OUD (MOUDs) within 30 days of hospital discharge and those who are not.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Methods&lt;/strong&gt;
+We performed a retrospective cohort study using a large commercial health insurance claims database of persons ≥18 years between July 1, 2010, and June 30, 2016. Primary outcomes included opioid-related overdoses and 1-year all-cause rehospitalization. We calculated incidence rates for the primary outcomes and developed Cox hazards models to predict time from discharge to each primary outcome as a function of receipt of MOUDs.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Results&lt;/strong&gt;
+The cohort included 768 individuals (mean age 39 years, 51% male). Only 5.7% of people received MOUDs in the 30 days following hospitalization. The opioid-related overdose rate among those who did receive MOUDs in the 30 days following hospitalization was lower than among those who did not (5.8 per 100 person-years [95% confidence interval [CI], 5.1–6.4] vs 7.3 per 100-person years [95% CI, 7.1–7.5], respectively). The rate of 1-year rehospitalization among those who received MOUDs was also lower than those who did not (162.0 per 100 person-years [95% CI, 157.4–166.6] vs 255.4 per 100 person-years [95% CI, 254.0–256.8], respectively). In the Cox hazards models, the receipt of MOUDs was not associated with either of the outcomes.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Conclusions&lt;/strong&gt;
+MOUD receipt following endocarditis may improve important health-related outcomes in commercially insured persons with OUD.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Keywords:&lt;/strong&gt; endocarditis, opioid use disorder, opioid epidemic, medications, hospitalization&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Projected Estimates of Opioid Mortality After Community-Level Interventions</title>
+      <link>https://jianing-jenny-wang.github.io/publication/linas-2021-jama/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://jianing-jenny-wang.github.io/publication/linas-2021-jama/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;abstract&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Importance&lt;/strong&gt;  The United States is experiencing a crisis of opioid overdose. In response, the US Department of Health and Human Services has defined a goal to reduce overdose mortality by 40% by 2022.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Objective&lt;/strong&gt;  To identify specific combinations of 3 interventions (initiating more people to medications for opioid use disorder [MOUD], increasing 6-month retention with MOUD, and increasing naloxone distribution) associated with at least a 40% reduction in opioid overdose in simulated populations.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Design, Setting, and Participants&lt;/strong&gt;  This decision analytical model used a dynamic population-level state-transition model to project outcomes over a 2-year horizon. Each intervention scenario was compared with the counterfactual of no intervention in simulated urban and rural communities in Massachusetts. Simulation modeling was used to determine the associations of community-level interventions with opioid overdose rates. The 3 examined interventions were initiation of more people to MOUD, increasing individuals’ retention with MOUD, and increasing distribution of naloxone. Data were analyzed from July to November 2020.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Main Outcomes and Measures&lt;/strong&gt;  Reduction in overdose mortality, medication treatment capacity needs, and naloxone needs.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Results&lt;/strong&gt;  No single intervention was associated with a 40% reduction in overdose mortality in the simulated communities. Reaching this goal required use of MOUD and naloxone. Achieving a 40% reduction required that 10% to 15% of the estimated OUD population not already receiving MOUD initiate MOUD every month, with 45% to 60%% retention for at least 6 months, and increased naloxone distribution. In all feasible settings and scenarios, attaining a 40% reduction in overdose mortality required that in every month, at least 10% of the population with OUD who were not currently receiving treatment initiate an MOUD.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Conclusions and Relevance&lt;/strong&gt; In this modeling study, only communities with increased capacity for treating with MOUD and increased MOUD retention experienced a 40% decrease in overdose mortality. These findings could provide a framework for developing community-level interventions to reduce opioid overdose death.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>HCV testing and treatment in a national sample of US federally qualified health centers during the opioid epidemic</title>
+      <link>https://jianing-jenny-wang.github.io/publication/assoumou-2020-jgim/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://jianing-jenny-wang.github.io/publication/assoumou-2020-jgim/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;abstract&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Background&lt;/strong&gt;
+Federally qualified health centers (FQHCs) serve diverse communities in the United States (U.S.) and could function as important venues to diagnose and treat hepatitis C virus (HCV) infections.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Objective&lt;/strong&gt;
+To determine HCV testing proportion and factors associated with treatment initiation, and treatment outcomes in a large sample of FQHCs around the U.S.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Design&lt;/strong&gt;
+Retrospective cohort study using electronic health records of three hundred and forty-one FQHC clinical sites participating in the OCHIN network in 19 U.S. states.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Participants&lt;/strong&gt;
+Adult patients (≥ 18 years of age) seen between January 01, 2012, and June 30, 2017.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Main Measures&lt;/strong&gt;
+HCV testing proportion, stratified by diagnosis of opioid use disorder (OUD); treatment initiation rates; and sustained virologic response (SVR), defined as undetectable HCV RNA 6 months after treatment initiation.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Key Results&lt;/strong&gt;
+Of the 1,508,525 patients meeting inclusion criteria, 88,384 (5.9%) were tested for HCV, and 8694 (9.8%) of individuals tested had reactive results. Of the 6357 with HCV RNA testing, 4092 (64.4%) had detectable RNA. Twelve percent of individuals with chronic HCV and evaluable data initiated treatment. Of those, 87% reached SVR. Having commercial insurance (aOR, 2.11; 95% CI, 1.46–3.05), older age (aOR, 1.07; 95% CI, 1.06–1.09), and being Hispanic/Latino (aOR, 1.87; 95% CI, 1.38–2.53) or Asian/Pacific Islander (aOR, 2.47; 95% CI, 1.46–4.19) were independently associated with higher odds of treatment initiation after multivariable adjustment. In contrast, women (aOR, 0.76; 95% CI, 0.60–0.97) and the uninsured (aOR, 0.15; 95% CI, 0.09–0.25) were less likely to initiate treatment. Only 8% of individuals with chronic HCV were tested for HIV, and 15% of individuals with identified OUD were tested for HCV.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Conclusions&lt;/strong&gt;
+Fewer than 20% of individuals with identified OUD were tested for HCV. SVR was lower than findings in other real-world cohorts. Measures to improve outcomes should be considered with the expansion of HCV management into community clinics.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Opioid overdose and inpatient care for substance use disorder care in Massachusetts</title>
+      <link>https://jianing-jenny-wang.github.io/publication/morgan-2020-jsat/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://jianing-jenny-wang.github.io/publication/morgan-2020-jsat/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;abstract&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Background:&lt;/strong&gt;
+Inpatient treatment for substance use disorders is a collection of strategies ranging from short term detoxification to longer term residential treatment. How those with opioid use disorder (OUD) navigate this inpatient treatment system after an encounter for detoxification and subsequent risk of opioid-related overdose is not well understood.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Methods:&lt;/strong&gt;
+We used a comprehensive Massachusetts database to characterize the movement of people with OUD through inpatient care from 2013–2015, identifying admissions to inpatient detoxification, subsequent inpatient care, and opioid overdose while navigating treatment. We measured the person-years accumulated during each transition period to calculate rates of opioid-related overdose, and investigated how overdose differed in select populations.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Results:&lt;/strong&gt;
+Sixty-one percent of inpatient detoxification admissions resulted in a subsequent inpatient detoxification admission without progressing to further inpatient care. Overall, there were 287 fatal and 7,337 non-fatal overdoses. Persons exiting treatment after detoxification had the greatest risk of overdose (17.3 per 100 person-years) compared to those who exited after subsequent inpatient care (ranging from 5.9 to 6.6 overdoses per 100 person-years). Non-Hispanic whites were most at risk for opioid related overdose with 16 overdoses per 100 person-years and non-Hispanic blacks had the lowest risk with 5 overdoses per 100 person-years.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Conclusions:&lt;/strong&gt;
+The majority of inpatient detoxification admissions do not progress to further inpatient care. Recurrent inpatient detoxification admission is common, likely signifying relapse. Rather than functioning as the first step to inpatient care, inpatient detoxification might be more effective as a venue for implementing strategies to expand addiction services or treatment such as medications for opioid use disorder.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Keywords:&lt;/strong&gt; substance use, opioid use, overdose&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sociodemographic factors and social determinants associated with toxicology confirmed polysubstance opioid-related deaths</title>
+      <link>https://jianing-jenny-wang.github.io/publication/barocas-2019-daad/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://jianing-jenny-wang.github.io/publication/barocas-2019-daad/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;abstract&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Background and Aims:&lt;/strong&gt;
+While prescribed and illicit opioid use are primary drivers of the national surges in overdose deaths, opioid overdose deaths in which stimulants are also present are increasing in the U.S. We determined the social determinants and sociodemographic factors associated with opioid-only versus polysubstance opioid overdose deaths in Massachusetts. Particular attention was focused on the role of stimulants in opioid overdose deaths.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Methods:&lt;/strong&gt;
+We analyzed all opioid-related overdose deaths from 2014–2015 in an individually-linked population database in Massachusetts. We used linked postmortem toxicology data to identify drugs present at the time of death. We constructed a multinomial logistic regression model to identify factors associated with three mutually exclusive overdose death groups based on toxicological results: opioid-related deaths with (1) opioids only present, (2) opioids and other substances not including stimulants, and (3) opioids and stimulants with or without other substances.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Results:&lt;/strong&gt;
+Between 2014 and 2015, there were 2,244 opioid-related overdose deaths in Massachusetts that had accompanying toxicology results. Toxicology reports indicated that 17% had opioids only, 36% had opioids plus stimulants, and 46% had opioids plus another non-stimulant substance. Persons older than 24 years, non-rural residents, those with comorbid mental illness, non-Hispanic black residents, and persons with recent homelessness were more likely than their counterparts to die with opioids and stimulants than opioids alone.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Conclusions:&lt;/strong&gt;
+Polysubstance opioid overdose is increasingly common in the US. Addressing modifiable social determinants of health including barriers to mental health services and homelessness, is important to reduce polysubstance use and overdose deaths.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Keywords:&lt;/strong&gt; opioid-related overdose, polysubstance use, stimulants, cocaine, amphetamines&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Estimated prevalence of opioid use disorder in Massachusetts, 2011–2015: a capture–recapture analysis</title>
+      <link>https://jianing-jenny-wang.github.io/publication/barocas-2018-ajph/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://jianing-jenny-wang.github.io/publication/barocas-2018-ajph/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;abstract&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Objectives.&lt;/strong&gt; To estimate the annual prevalence of opioid use disorder (OUD) in Massachusetts from 2011 to 2015.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Methods.&lt;/strong&gt; We performed a multisample stratified capture–recapture analysis to estimate OUD prevalence in Massachusetts. Individuals identified from 6 administrative databases for 2011 to 2012 and 7 databases for 2013 to 2015 were linked at the individual level and included in the analysis. Individuals were stratified by age group, sex, and county of residence.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Results.&lt;/strong&gt; The OUD prevalence in Massachusetts among people aged 11 years or older was 2.72% in 2011 and 2.87% in 2012. Between 2013 and 2015, the prevalence increased from 3.87% to 4.60%. The greatest increase in prevalence was observed among those in the youngest age group (11–25 years), a 76% increase from 2011 to 2012 and a 42% increase from 2013 to 2015.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Conclusions.&lt;/strong&gt; In Massachusetts, the OUD prevalence was 4.6% among people 11 years or older in 2015. The number of individuals with OUD is likely increasing, particularly among young people.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

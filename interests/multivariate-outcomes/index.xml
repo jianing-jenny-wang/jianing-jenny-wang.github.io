@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Multivariate Outcomes | Jianing Wang</title>
+    <link>https://jianing-jenny-wang.github.io/interests/multivariate-outcomes/</link>
+      <atom:link href="https://jianing-jenny-wang.github.io/interests/multivariate-outcomes/index.xml" rel="self" type="application/rss+xml" />
+    <description>Multivariate Outcomes</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jianing-jenny-wang.github.io/media/icon_hu61a5cda683b16e16ad250d48d66bc7bc_4894_512x512_fill_lanczos_center_3.png</url>
+      <title>Multivariate Outcomes</title>
+      <link>https://jianing-jenny-wang.github.io/interests/multivariate-outcomes/</link>
+    </image>
+    
+    <item>
+      <title>Modeling recurrent relapse and remitting episodes during MOUD treatment: a tutorial</title>
+      <link>https://jianing-jenny-wang.github.io/publication/wang-working-mdm/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://jianing-jenny-wang.github.io/publication/wang-working-mdm/</guid>
+      <description>&lt;div align=&#34;center&#34;&gt;&lt;b&gt;&lt;i&gt; Working Paper &lt;/div&gt;
+&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;abstract&lt;/h2&gt;
+&lt;p&gt;In longitudinal studies participants can often experience the outcome(s) of interest multiple times during the observation period, creating recurrent event data. Depending on the primary research objective, advanced statistical methods are required to correctly analyze this special type of data. This tutorial discusses four general frameworks, appropriate for analyzing recurrent events data; 1) extended Cox, 2) Parametric Survival, 3) Longitudinal, and 4) Multistate models. We present in detail the implementation of these methods, including description of the required dataset structure, R code, and interpretation of results, using data from the CTN-0051 study, a randomized clinical trial comparing the effectiveness of Opioid Use Disorder (OUD) treatments. Objectives of three use case scenarios exemplify usage and relevance of the methods for the analysis of recurrent events; 1) estimate adjusted effects, 2) make individual-level predictions, and 3) model a complicated process involving multidirectional transitions between disease states. We compare the methods, comment on their strengths and limitations and make recommendations on the preferred method depending on the primary research objective.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Meta-Modelling for Policy Simulations with Multivariate Outcomes</title>
+      <link>https://jianing-jenny-wang.github.io/publication/zhong-2019-conf/</link>
+      <pubDate>Sun, 20 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://jianing-jenny-wang.github.io/publication/zhong-2019-conf/</guid>
+      <description>&lt;!-- 
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;abstract&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Purpose:&lt;/strong&gt; A metamodel is a simplified approximation of the relationships between inputs and outputs in a simulation model. A challenge in metamodeling for policy analysis is that there are often multiple correlated outputs of interest: for example, costs and effects of different policy choices. We develop a framework for metamodeling that accommodates multivariate outcomes, and we compare alternatives for the choice of the base learning algorithm.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Methods:&lt;/strong&gt; To generate metamodels for multivariate outcomes, we combined two algorithm adaptation methods – multi-target stacking (MTS) and regression chain with maximum correlation chain (RCCC) – together with different base learners including linear regression (LR), elastic net (EN) with second-order terms, Gaussian process regression (GPR), random forests (RFs), and neural networks (NNs). We optimized the integrated models using variable selection and hyperparameter tuning. We compared approaches in terms of model accuracy, efficiency, and interpretability. To illustrate the framework, we used inputs and outputs from an individual-based decision analytic simulation model of testing and treatment strategies for chronic hepatitis C virus in correctional settings. The training data set included 2,000 simulations, each summarized by 37 input variables and 60 output variables (5 economic and health outcomes for 6 alternative strategies measured over 2 time horizons).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Results:&lt;/strong&gt; The output variables from the simulation model were heavily correlated (average rho=0.58). Without multioutput algorithm adaptation methods, in-sample fit (measured by R2) ranged from 0.881 for LR to 0.987 for GPR. Inclusion of multioutput algorithm adaptation methods increased R2by 0.004 on average across all base leaners, and variable selection and hyperparameter tuning added 0.009. In terms of model efficiency, simpler models such as LR, EN, and RF required minimal training and prediction time. GPR had short prediction time, but the training time was heavily affected by the size of the training dataset. NN had the longest training and prediction time. For model interpretability, LR and EN have clear advantages, but we also consider methods for improving interpretability of other models.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Conclusions:&lt;/strong&gt; This study provides a framework for metamodeling in policy analyses with multivariate outcomes of interest. While the advantages and disadvantages of specific learning algorithms may vary across different modeling applications, we expect that the general framework presented here will have broad applicability to decision analytic models in health and medicine.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

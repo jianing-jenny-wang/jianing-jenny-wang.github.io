@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Agent-Base Model | Jianing Wang</title>
+    <link>https://jianing-jenny-wang.github.io/interests/agent-base-model/</link>
+      <atom:link href="https://jianing-jenny-wang.github.io/interests/agent-base-model/index.xml" rel="self" type="application/rss+xml" />
+    <description>Agent-Base Model</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jianing-jenny-wang.github.io/media/icon_hu61a5cda683b16e16ad250d48d66bc7bc_4894_512x512_fill_lanczos_center_3.png</url>
+      <title>Agent-Base Model</title>
+      <link>https://jianing-jenny-wang.github.io/interests/agent-base-model/</link>
+    </image>
+    
+    <item>
+      <title>Population-level outcomes and cost-effectiveness of expanding the recommendation for age-based hepatitis C testing in the United States</title>
+      <link>https://jianing-jenny-wang.github.io/publication/barocas-2018-cid/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://jianing-jenny-wang.github.io/publication/barocas-2018-cid/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;abstract&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Background&lt;/strong&gt;
+The US Centers for Disease Control and Prevention and the U.S. Preventive Services Task Force recommend one-time hepatitis C virus (HCV) testing for persons born 1945–1965 and targeted testing for high-risk persons. This strategy targets HCV testing to a prevalent population at high risk for HCV morbidity and mortality, but does not include younger populations with high incidence. To address this gap and improve access to HCV testing, age-based strategies should be considered.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Methods&lt;/strong&gt;
+We used a simulation of HCV to estimate the effectiveness and cost-effectiveness of HCV testing strategies: 1) standard of care (SOC) – recommendation for one-time testing for all persons born 1945–1965, 2) recommendation for one-time testing for adults ≥40 years (≥40 strategy), 3) ≥30 years (≥30 strategy), and 4) ≥18 years (≥18 strategy). All strategies assumed targeted testing of high-risk persons. Inputs were derived from national databases, observational cohorts and clinical trials. Outcomes included quality-adjusted life expectancy, costs, and cost-effectiveness.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Results&lt;/strong&gt;
+Expanded age-based testing strategies increased US population lifetime case identification and cure rates. Greatest increases were observed in the ≥18 strategy. Compared to the SOC, this strategy resulted in an estimated 256,000 additional infected persons identified and 280,000 additional cures at the lowest cost per QALY gained (ICER = $28,000/QALY).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Conclusions&lt;/strong&gt;
+In addition to risk-based testing, one-time HCV testing of persons 18 and older appears to be cost-effective, leads to improved clinical outcomes and identifies more persons with HCV than the current birth cohort recommendations. These findings could be considered for future recommendation revisions.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Keywords:&lt;/strong&gt; hepatitis C virus, testing, cost-effectiveness
+&lt;strong&gt;Topic:&lt;/strong&gt; cost effectivenesshepatitis cadulthepatitis c virus&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
